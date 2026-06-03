@@ -177,7 +177,9 @@ Advent Pro,,/Expressive/Active,5
 Advent Pro,,/Expressive/Awkward,30
 Advent Pro,,/Expressive/Calm,45
 Advent Pro,,/Expressive/Cute,10
-Advent Pro,,/Expressive/Futuristic,20
+Advent Pro,wght@100,/Expressive/Futuristic,0
+Advent Pro,wght@400,/Expressive/Futuristic,20
+Advent Pro,wght@900,/Expressive/Futuristic,0
 Advent Pro,wght@600,/Expressive/Loud,42
 Advent Pro,wght@900,/Expressive/Loud,77
 Advent Pro,,/Expressive/Playful,31
@@ -352,7 +354,9 @@ Akronim,,/Quality/Wordspace,80
 Akronim,,/Seasonal/Holi,69
 Akronim,,/Theme/Shaded,50
 Akshar,,/Expressive/Calm,45
-Akshar,,/Expressive/Futuristic,10
+Akshar,wght@300,/Expressive/Futuristic,0
+Akshar,wght@400,/Expressive/Futuristic,10
+Akshar,wght@700,/Expressive/Futuristic,0
 Akshar,,/Expressive/Loud,3
 Akshar,,/Expressive/Rugged,45
 Akshar,,/Expressive/Sincere,20
@@ -819,7 +823,9 @@ Alumni Sans SC,,/Sans/Humanist,20
 Alumni Sans,,/Expressive/Business,30
 Alumni Sans,,/Expressive/Calm,70
 Alumni Sans,,/Expressive/Excited,10
-Alumni Sans,,/Expressive/Futuristic,15
+Alumni Sans,wght@100,/Expressive/Futuristic,0
+Alumni Sans,wght@400,/Expressive/Futuristic,15
+Alumni Sans,wght@900,/Expressive/Futuristic,0
 Alumni Sans,,/Expressive/Happy,10
 Alumni Sans,wght@600,/Expressive/Loud,50
 Alumni Sans,wght@900,/Expressive/Loud,76
@@ -1023,7 +1029,9 @@ Andika,,/Sans/Humanist,100
 Anek Bangla,,/Expressive/Business,45
 Anek Bangla,,/Expressive/Calm,74
 Anek Bangla,,/Expressive/Competent,18
-Anek Bangla,,/Expressive/Futuristic,5
+Anek Bangla,wght@100,/Expressive/Futuristic,0
+Anek Bangla,wght@400,/Expressive/Futuristic,5
+Anek Bangla,wght@800,/Expressive/Futuristic,0
 Anek Bangla,,/Expressive/Loud,1
 Anek Bangla,,/Expressive/Rugged,45
 Anek Bangla,,/Expressive/Sincere,10
@@ -1037,7 +1045,9 @@ Anek Bangla,,/Sans/Humanist,100
 Anek Devanagari,,/Expressive/Business,45
 Anek Devanagari,,/Expressive/Calm,74
 Anek Devanagari,,/Expressive/Competent,18
-Anek Devanagari,,/Expressive/Futuristic,5
+Anek Devanagari,wght@100,/Expressive/Futuristic,0
+Anek Devanagari,wght@400,/Expressive/Futuristic,5
+Anek Devanagari,wght@800,/Expressive/Futuristic,0
 Anek Devanagari,,/Expressive/Loud,1
 Anek Devanagari,,/Expressive/Rugged,45
 Anek Devanagari,,/Expressive/Sincere,10
@@ -1051,7 +1061,9 @@ Anek Devanagari,,/Sans/Humanist,100
 Anek Gujarati,,/Expressive/Business,45
 Anek Gujarati,,/Expressive/Calm,74
 Anek Gujarati,,/Expressive/Competent,18
-Anek Gujarati,,/Expressive/Futuristic,5
+Anek Gujarati,wght@100,/Expressive/Futuristic,0
+Anek Gujarati,wght@400,/Expressive/Futuristic,5
+Anek Gujarati,wght@800,/Expressive/Futuristic,0
 Anek Gujarati,,/Expressive/Loud,1
 Anek Gujarati,,/Expressive/Rugged,45
 Anek Gujarati,,/Expressive/Sincere,10
@@ -1065,7 +1077,9 @@ Anek Gujarati,,/Sans/Humanist,100
 Anek Gurmukhi,,/Expressive/Business,45
 Anek Gurmukhi,,/Expressive/Calm,74
 Anek Gurmukhi,,/Expressive/Competent,18
-Anek Gurmukhi,,/Expressive/Futuristic,5
+Anek Gurmukhi,wght@100,/Expressive/Futuristic,0
+Anek Gurmukhi,wght@400,/Expressive/Futuristic,5
+Anek Gurmukhi,wght@800,/Expressive/Futuristic,0
 Anek Gurmukhi,,/Expressive/Loud,3
 Anek Gurmukhi,,/Expressive/Rugged,45
 Anek Gurmukhi,,/Expressive/Sincere,10
@@ -1079,7 +1093,9 @@ Anek Gurmukhi,,/Sans/Humanist,100
 Anek Kannada,,/Expressive/Business,45
 Anek Kannada,,/Expressive/Calm,74
 Anek Kannada,,/Expressive/Competent,18
-Anek Kannada,,/Expressive/Futuristic,5
+Anek Kannada,wght@100,/Expressive/Futuristic,0
+Anek Kannada,wght@400,/Expressive/Futuristic,5
+Anek Kannada,wght@800,/Expressive/Futuristic,0
 Anek Kannada,,/Expressive/Loud,3
 Anek Kannada,,/Expressive/Rugged,45
 Anek Kannada,,/Expressive/Sincere,10
@@ -1093,7 +1109,9 @@ Anek Kannada,,/Sans/Humanist,100
 Anek Latin,,/Expressive/Business,45
 Anek Latin,,/Expressive/Calm,74
 Anek Latin,,/Expressive/Competent,18
-Anek Latin,,/Expressive/Futuristic,5
+Anek Latin,wght@100,/Expressive/Futuristic,0
+Anek Latin,wght@400,/Expressive/Futuristic,5
+Anek Latin,wght@800,/Expressive/Futuristic,0
 Anek Latin,,/Expressive/Loud,1
 Anek Latin,,/Expressive/Rugged,45
 Anek Latin,,/Expressive/Sincere,10
@@ -1107,7 +1125,9 @@ Anek Latin,,/Sans/Humanist,100
 Anek Malayalam,,/Expressive/Business,45
 Anek Malayalam,,/Expressive/Calm,60
 Anek Malayalam,,/Expressive/Competent,18
-Anek Malayalam,,/Expressive/Futuristic,5
+Anek Malayalam,wght@100,/Expressive/Futuristic,0
+Anek Malayalam,wght@400,/Expressive/Futuristic,5
+Anek Malayalam,wght@800,/Expressive/Futuristic,0
 Anek Malayalam,,/Expressive/Loud,1
 Anek Malayalam,,/Expressive/Rugged,45
 Anek Malayalam,,/Expressive/Sincere,10
@@ -1121,7 +1141,9 @@ Anek Malayalam,,/Sans/Humanist,100
 Anek Odia,,/Expressive/Business,45
 Anek Odia,,/Expressive/Calm,74
 Anek Odia,,/Expressive/Competent,18
-Anek Odia,,/Expressive/Futuristic,5
+Anek Odia,wght@100,/Expressive/Futuristic,0
+Anek Odia,wght@400,/Expressive/Futuristic,5
+Anek Odia,wght@800,/Expressive/Futuristic,0
 Anek Odia,,/Expressive/Loud,1
 Anek Odia,,/Expressive/Rugged,45
 Anek Odia,,/Expressive/Sincere,10
@@ -1135,7 +1157,9 @@ Anek Odia,,/Sans/Humanist,100
 Anek Tamil,,/Expressive/Business,45
 Anek Tamil,,/Expressive/Calm,74
 Anek Tamil,,/Expressive/Competent,18
-Anek Tamil,,/Expressive/Futuristic,5
+Anek Tamil,wght@100,/Expressive/Futuristic,0
+Anek Tamil,wght@400,/Expressive/Futuristic,5
+Anek Tamil,wght@800,/Expressive/Futuristic,0
 Anek Tamil,,/Expressive/Loud,1
 Anek Tamil,,/Expressive/Rugged,45
 Anek Tamil,,/Expressive/Sincere,10
@@ -1149,7 +1173,9 @@ Anek Tamil,,/Sans/Humanist,100
 Anek Telugu,,/Expressive/Business,45
 Anek Telugu,,/Expressive/Calm,74
 Anek Telugu,,/Expressive/Competent,18
-Anek Telugu,,/Expressive/Futuristic,5
+Anek Telugu,wght@100,/Expressive/Futuristic,0
+Anek Telugu,wght@400,/Expressive/Futuristic,5
+Anek Telugu,wght@800,/Expressive/Futuristic,0
 Anek Telugu,,/Expressive/Loud,1
 Anek Telugu,,/Expressive/Rugged,45
 Anek Telugu,,/Expressive/Sincere,10
@@ -1280,7 +1306,9 @@ Anton,,/Sans/Neo Grotesque,70
 Antonio,,/Expressive/Business,10
 Antonio,,/Expressive/Calm,35
 Antonio,,/Expressive/Excited,10
-Antonio,,/Expressive/Futuristic,10
+Antonio,wght@100,/Expressive/Futuristic,0
+Antonio,wght@400,/Expressive/Futuristic,10
+Antonio,wght@700,/Expressive/Futuristic,0
 Antonio,,/Expressive/Loud,9
 Antonio,,/Expressive/Rugged,55
 Antonio,,/Expressive/Sincere,20
@@ -1402,7 +1430,9 @@ Archivo Narrow,,/Expressive/Active,10
 Archivo Narrow,,/Expressive/Business,30
 Archivo Narrow,,/Expressive/Calm,82
 Archivo Narrow,,/Expressive/Competent,30
-Archivo Narrow,,/Expressive/Futuristic,20
+Archivo Narrow,wght@400,/Expressive/Futuristic,20
+Archivo Narrow,wght@400,/Expressive/Futuristic,20
+Archivo Narrow,wght@700,/Expressive/Futuristic,0
 Archivo Narrow,,/Expressive/Happy,10
 Archivo Narrow,,/Expressive/Loud,3
 Archivo Narrow,,/Expressive/Rugged,52
@@ -1717,7 +1747,9 @@ Athiti,,/Sans/Geometric,20
 Athiti,,/Sans/Humanist,70
 Atkinson Hyperlegible Mono,,/Expressive/Business,77
 Atkinson Hyperlegible Mono,,/Expressive/Calm,75
-Atkinson Hyperlegible Mono,,/Expressive/Futuristic,20
+Atkinson Hyperlegible Mono,wght@200,/Expressive/Futuristic,0
+Atkinson Hyperlegible Mono,wght@400,/Expressive/Futuristic,20
+Atkinson Hyperlegible Mono,wght@800,/Expressive/Futuristic,0
 Atkinson Hyperlegible Mono,,/Expressive/Loud,1
 Atkinson Hyperlegible Mono,,/Expressive/Rugged,56
 Atkinson Hyperlegible Mono,,/Expressive/Sincere,20
@@ -1908,7 +1940,9 @@ Averia Serif Libre,,/Quality/Spacing,60
 Averia Serif Libre,,/Quality/Wordspace,70
 Azeret Mono,,/Expressive/Business,20
 Azeret Mono,,/Expressive/Calm,70
-Azeret Mono,,/Expressive/Futuristic,20
+Azeret Mono,wght@100,/Expressive/Futuristic,0
+Azeret Mono,wght@400,/Expressive/Futuristic,20
+Azeret Mono,wght@900,/Expressive/Futuristic,0
 Azeret Mono,wght@600,/Expressive/Loud,54
 Azeret Mono,wght@900,/Expressive/Loud,80
 Azeret Mono,,/Expressive/Rugged,45
@@ -2040,6 +2074,17 @@ BIZ UDPMincho,,/Quality/Concept,70
 BIZ UDPMincho,,/Quality/Drawing,68
 BIZ UDPMincho,,/Quality/Spacing,70
 BIZ UDPMincho,,/Quality/Wordspace,100
+BJCree,,/Expressive/Business,90
+BJCree,,/Expressive/Calm,90
+BJCree,,/Expressive/Competent,80
+BJCree,,/Expressive/Rugged,40
+BJCree,,/Expressive/Sincere,75
+BJCree,,/Expressive/Stiff,10
+BJCree,,/Quality/Concept,100
+BJCree,,/Quality/Drawing,100
+BJCree,,/Quality/Spacing,100
+BJCree,,/Quality/Wordspace,100
+BJCree,,/Sans/Humanist,100
 Babylonica,,/Expressive/Active,76
 Babylonica,,/Expressive/Artistic,99
 Babylonica,,/Expressive/Awkward,94
@@ -2186,7 +2231,9 @@ Ballet,,/Seasonal/Christmas,96
 Ballet,,/Seasonal/Valentine's Day,94
 Baloo 2,,/Expressive/Business,60
 Baloo 2,,/Expressive/Calm,90
-Baloo 2,,/Expressive/Futuristic,10
+Baloo 2,wght@400,/Expressive/Futuristic,10
+Baloo 2,wght@400,/Expressive/Futuristic,10
+Baloo 2,wght@800,/Expressive/Futuristic,0
 Baloo 2,,/Expressive/Loud,1
 Baloo 2,,/Expressive/Rugged,45
 Baloo 2,,/Expressive/Sincere,10
@@ -2199,7 +2246,9 @@ Baloo 2,,/Quality/Wordspace,100
 Baloo 2,,/Sans/Rounded,100
 Baloo Bhai 2,,/Expressive/Business,60
 Baloo Bhai 2,,/Expressive/Calm,90
-Baloo Bhai 2,,/Expressive/Futuristic,10
+Baloo Bhai 2,wght@400,/Expressive/Futuristic,10
+Baloo Bhai 2,wght@400,/Expressive/Futuristic,10
+Baloo Bhai 2,wght@800,/Expressive/Futuristic,0
 Baloo Bhai 2,,/Expressive/Loud,1
 Baloo Bhai 2,,/Expressive/Rugged,30
 Baloo Bhai 2,,/Expressive/Sincere,10
@@ -2211,7 +2260,9 @@ Baloo Bhai 2,,/Quality/Spacing,70
 Baloo Bhai 2,,/Quality/Wordspace,100
 Baloo Bhai 2,,/Sans/Rounded,100
 Baloo Bhaijaan 2,,/Expressive/Calm,90
-Baloo Bhaijaan 2,,/Expressive/Futuristic,10
+Baloo Bhaijaan 2,wght@400,/Expressive/Futuristic,10
+Baloo Bhaijaan 2,wght@400,/Expressive/Futuristic,10
+Baloo Bhaijaan 2,wght@800,/Expressive/Futuristic,0
 Baloo Bhaijaan 2,,/Expressive/Happy,10
 Baloo Bhaijaan 2,,/Expressive/Rugged,30
 Baloo Bhaijaan 2,,/Expressive/Sincere,10
@@ -2224,7 +2275,9 @@ Baloo Bhaijaan 2,,/Quality/Wordspace,90
 Baloo Bhaijaan 2,,/Sans/Rounded,100
 Baloo Bhaina 2,,/Expressive/Business,60
 Baloo Bhaina 2,,/Expressive/Calm,90
-Baloo Bhaina 2,,/Expressive/Futuristic,10
+Baloo Bhaina 2,wght@400,/Expressive/Futuristic,10
+Baloo Bhaina 2,wght@400,/Expressive/Futuristic,10
+Baloo Bhaina 2,wght@800,/Expressive/Futuristic,0
 Baloo Bhaina 2,,/Expressive/Happy,10
 Baloo Bhaina 2,,/Expressive/Loud,1
 Baloo Bhaina 2,,/Expressive/Rugged,30
@@ -2238,7 +2291,9 @@ Baloo Bhaina 2,,/Quality/Wordspace,100
 Baloo Bhaina 2,,/Sans/Rounded,100
 Baloo Chettan 2,,/Expressive/Business,70
 Baloo Chettan 2,,/Expressive/Calm,90
-Baloo Chettan 2,,/Expressive/Futuristic,10
+Baloo Chettan 2,wght@400,/Expressive/Futuristic,10
+Baloo Chettan 2,wght@400,/Expressive/Futuristic,10
+Baloo Chettan 2,wght@800,/Expressive/Futuristic,0
 Baloo Chettan 2,,/Expressive/Loud,1
 Baloo Chettan 2,,/Expressive/Rugged,30
 Baloo Chettan 2,,/Expressive/Sincere,10
@@ -2251,7 +2306,9 @@ Baloo Chettan 2,,/Quality/Wordspace,100
 Baloo Chettan 2,,/Sans/Rounded,100
 Baloo Da 2,,/Expressive/Business,70
 Baloo Da 2,,/Expressive/Calm,90
-Baloo Da 2,,/Expressive/Futuristic,10
+Baloo Da 2,wght@400,/Expressive/Futuristic,10
+Baloo Da 2,wght@400,/Expressive/Futuristic,10
+Baloo Da 2,wght@800,/Expressive/Futuristic,0
 Baloo Da 2,,/Expressive/Loud,1
 Baloo Da 2,,/Expressive/Rugged,30
 Baloo Da 2,,/Expressive/Sincere,10
@@ -2264,7 +2321,9 @@ Baloo Da 2,,/Quality/Wordspace,100
 Baloo Da 2,,/Sans/Rounded,100
 Baloo Paaji 2,,/Expressive/Business,70
 Baloo Paaji 2,,/Expressive/Calm,90
-Baloo Paaji 2,,/Expressive/Futuristic,10
+Baloo Paaji 2,wght@400,/Expressive/Futuristic,10
+Baloo Paaji 2,wght@400,/Expressive/Futuristic,10
+Baloo Paaji 2,wght@800,/Expressive/Futuristic,0
 Baloo Paaji 2,,/Expressive/Loud,1
 Baloo Paaji 2,,/Expressive/Rugged,30
 Baloo Paaji 2,,/Expressive/Sincere,10
@@ -2277,7 +2336,9 @@ Baloo Paaji 2,,/Quality/Wordspace,90
 Baloo Paaji 2,,/Sans/Rounded,100
 Baloo Tamma 2,,/Expressive/Business,70
 Baloo Tamma 2,,/Expressive/Calm,90
-Baloo Tamma 2,,/Expressive/Futuristic,10
+Baloo Tamma 2,wght@400,/Expressive/Futuristic,10
+Baloo Tamma 2,wght@400,/Expressive/Futuristic,10
+Baloo Tamma 2,wght@800,/Expressive/Futuristic,0
 Baloo Tamma 2,,/Expressive/Loud,1
 Baloo Tamma 2,,/Expressive/Rugged,30
 Baloo Tamma 2,,/Expressive/Sincere,10
@@ -2290,7 +2351,9 @@ Baloo Tamma 2,,/Quality/Wordspace,100
 Baloo Tamma 2,,/Sans/Rounded,100
 Baloo Tammudu 2,,/Expressive/Business,70
 Baloo Tammudu 2,,/Expressive/Calm,90
-Baloo Tammudu 2,,/Expressive/Futuristic,10
+Baloo Tammudu 2,wght@400,/Expressive/Futuristic,10
+Baloo Tammudu 2,wght@400,/Expressive/Futuristic,10
+Baloo Tammudu 2,wght@800,/Expressive/Futuristic,0
 Baloo Tammudu 2,,/Expressive/Loud,1
 Baloo Tammudu 2,,/Expressive/Rugged,30
 Baloo Tammudu 2,,/Expressive/Sincere,10
@@ -2303,7 +2366,9 @@ Baloo Tammudu 2,,/Quality/Wordspace,100
 Baloo Tammudu 2,,/Sans/Rounded,100
 Baloo Thambi 2,,/Expressive/Business,70
 Baloo Thambi 2,,/Expressive/Calm,90
-Baloo Thambi 2,,/Expressive/Futuristic,10
+Baloo Thambi 2,wght@400,/Expressive/Futuristic,10
+Baloo Thambi 2,wght@400,/Expressive/Futuristic,10
+Baloo Thambi 2,wght@800,/Expressive/Futuristic,0
 Baloo Thambi 2,,/Expressive/Loud,1
 Baloo Thambi 2,,/Expressive/Rugged,30
 Baloo Thambi 2,,/Expressive/Sincere,10
@@ -2791,7 +2856,9 @@ Big Shoulders Inline,,/Expressive/Awkward,20
 Big Shoulders Inline,,/Expressive/Business,10
 Big Shoulders Inline,,/Expressive/Calm,40
 Big Shoulders Inline,,/Expressive/Excited,5
-Big Shoulders Inline,,/Expressive/Futuristic,56
+Big Shoulders Inline,wght@100,/Expressive/Futuristic,0
+Big Shoulders Inline,wght@400,/Expressive/Futuristic,56
+Big Shoulders Inline,wght@900,/Expressive/Futuristic,0
 Big Shoulders Inline,,/Expressive/Innovative,5
 Big Shoulders Inline,wght@600,/Expressive/Loud,60
 Big Shoulders Inline,wght@900,/Expressive/Loud,73
@@ -2812,7 +2879,9 @@ Big Shoulders Stencil,,/Expressive/Active,20
 Big Shoulders Stencil,,/Expressive/Awkward,20
 Big Shoulders Stencil,,/Expressive/Business,10
 Big Shoulders Stencil,,/Expressive/Excited,5
-Big Shoulders Stencil,,/Expressive/Futuristic,56
+Big Shoulders Stencil,wght@100,/Expressive/Futuristic,0
+Big Shoulders Stencil,wght@400,/Expressive/Futuristic,56
+Big Shoulders Stencil,wght@900,/Expressive/Futuristic,0
 Big Shoulders Stencil,,/Expressive/Innovative,10
 Big Shoulders Stencil,wght@600,/Expressive/Loud,50
 Big Shoulders Stencil,wght@900,/Expressive/Loud,67
@@ -2833,7 +2902,9 @@ Big Shoulders,,/Expressive/Active,20
 Big Shoulders,,/Expressive/Business,10
 Big Shoulders,,/Expressive/Calm,60
 Big Shoulders,,/Expressive/Excited,5
-Big Shoulders,,/Expressive/Futuristic,56
+Big Shoulders,wght@100,/Expressive/Futuristic,0
+Big Shoulders,wght@400,/Expressive/Futuristic,56
+Big Shoulders,wght@900,/Expressive/Futuristic,0
 Big Shoulders,wght@600,/Expressive/Loud,52
 Big Shoulders,wght@900,/Expressive/Loud,72
 Big Shoulders,,/Expressive/Rugged,70
@@ -2917,7 +2988,9 @@ BioRhyme Expanded,,/Quality/Wordspace,60
 BioRhyme Expanded,,/Slab/Geometric,20
 BioRhyme Expanded,,/Slab/Humanist,80
 BioRhyme,,/Expressive/Business,30
-BioRhyme,,/Expressive/Futuristic,10
+BioRhyme,wght@200,/Expressive/Futuristic,0
+BioRhyme,wght@400,/Expressive/Futuristic,10
+BioRhyme,wght@800,/Expressive/Futuristic,0
 BioRhyme,,/Expressive/Happy,30
 BioRhyme,,/Expressive/Innovative,55
 BioRhyme,,/Expressive/Loud,3
@@ -2982,7 +3055,9 @@ Biryani,,/Sans/Humanist,70
 Bitcount Grid Double Ink,,/Expressive/Artistic,100
 Bitcount Grid Double Ink,,/Expressive/Awkward,70
 Bitcount Grid Double Ink,,/Expressive/Excited,10
-Bitcount Grid Double Ink,,/Expressive/Futuristic,80
+Bitcount Grid Double Ink,wght@100,/Expressive/Futuristic,0
+Bitcount Grid Double Ink,wght@400,/Expressive/Futuristic,80
+Bitcount Grid Double Ink,wght@900,/Expressive/Futuristic,0
 Bitcount Grid Double Ink,,/Expressive/Innovative,70
 Bitcount Grid Double Ink,wght@600,/Expressive/Loud,45
 Bitcount Grid Double Ink,wght@900,/Expressive/Loud,95
@@ -3000,7 +3075,9 @@ Bitcount Grid Double Ink,,/Theme/Techno,50
 Bitcount Grid Double,,/Expressive/Artistic,100
 Bitcount Grid Double,,/Expressive/Awkward,70
 Bitcount Grid Double,,/Expressive/Excited,10
-Bitcount Grid Double,,/Expressive/Futuristic,80
+Bitcount Grid Double,wght@100,/Expressive/Futuristic,0
+Bitcount Grid Double,wght@400,/Expressive/Futuristic,80
+Bitcount Grid Double,wght@900,/Expressive/Futuristic,0
 Bitcount Grid Double,,/Expressive/Innovative,70
 Bitcount Grid Double,wght@600,/Expressive/Loud,45
 Bitcount Grid Double,wght@900,/Expressive/Loud,92
@@ -3018,7 +3095,9 @@ Bitcount Grid Double,,/Theme/Techno,50
 Bitcount Grid Single Ink,,/Expressive/Artistic,100
 Bitcount Grid Single Ink,,/Expressive/Awkward,70
 Bitcount Grid Single Ink,,/Expressive/Excited,10
-Bitcount Grid Single Ink,,/Expressive/Futuristic,80
+Bitcount Grid Single Ink,wght@100,/Expressive/Futuristic,0
+Bitcount Grid Single Ink,wght@400,/Expressive/Futuristic,80
+Bitcount Grid Single Ink,wght@900,/Expressive/Futuristic,0
 Bitcount Grid Single Ink,,/Expressive/Innovative,70
 Bitcount Grid Single Ink,wght@600,/Expressive/Loud,45
 Bitcount Grid Single Ink,wght@900,/Expressive/Loud,95
@@ -3036,7 +3115,9 @@ Bitcount Grid Single Ink,,/Theme/Techno,50
 Bitcount Grid Single,,/Expressive/Artistic,100
 Bitcount Grid Single,,/Expressive/Awkward,70
 Bitcount Grid Single,,/Expressive/Excited,10
-Bitcount Grid Single,,/Expressive/Futuristic,80
+Bitcount Grid Single,wght@100,/Expressive/Futuristic,0
+Bitcount Grid Single,wght@400,/Expressive/Futuristic,80
+Bitcount Grid Single,wght@900,/Expressive/Futuristic,0
 Bitcount Grid Single,,/Expressive/Innovative,70
 Bitcount Grid Single,wght@600,/Expressive/Loud,35
 Bitcount Grid Single,wght@900,/Expressive/Loud,92
@@ -3054,7 +3135,9 @@ Bitcount Grid Single,,/Theme/Techno,50
 Bitcount Ink,,/Expressive/Artistic,100
 Bitcount Ink,,/Expressive/Awkward,70
 Bitcount Ink,,/Expressive/Excited,10
-Bitcount Ink,,/Expressive/Futuristic,80
+Bitcount Ink,wght@100,/Expressive/Futuristic,0
+Bitcount Ink,wght@400,/Expressive/Futuristic,80
+Bitcount Ink,wght@900,/Expressive/Futuristic,0
 Bitcount Ink,,/Expressive/Innovative,70
 Bitcount Ink,wght@600,/Expressive/Loud,45
 Bitcount Ink,wght@900,/Expressive/Loud,95
@@ -3072,7 +3155,9 @@ Bitcount Ink,,/Theme/Techno,50
 Bitcount Prop Double Ink,,/Expressive/Artistic,100
 Bitcount Prop Double Ink,,/Expressive/Awkward,70
 Bitcount Prop Double Ink,,/Expressive/Excited,10
-Bitcount Prop Double Ink,,/Expressive/Futuristic,80
+Bitcount Prop Double Ink,wght@100,/Expressive/Futuristic,0
+Bitcount Prop Double Ink,wght@400,/Expressive/Futuristic,80
+Bitcount Prop Double Ink,wght@900,/Expressive/Futuristic,0
 Bitcount Prop Double Ink,,/Expressive/Innovative,70
 Bitcount Prop Double Ink,wght@600,/Expressive/Loud,45
 Bitcount Prop Double Ink,wght@900,/Expressive/Loud,95
@@ -3090,7 +3175,9 @@ Bitcount Prop Double Ink,,/Theme/Techno,50
 Bitcount Prop Double,,/Expressive/Artistic,100
 Bitcount Prop Double,,/Expressive/Awkward,70
 Bitcount Prop Double,,/Expressive/Excited,10
-Bitcount Prop Double,,/Expressive/Futuristic,80
+Bitcount Prop Double,wght@100,/Expressive/Futuristic,0
+Bitcount Prop Double,wght@400,/Expressive/Futuristic,80
+Bitcount Prop Double,wght@900,/Expressive/Futuristic,0
 Bitcount Prop Double,,/Expressive/Innovative,70
 Bitcount Prop Double,wght@600,/Expressive/Loud,45
 Bitcount Prop Double,wght@900,/Expressive/Loud,94
@@ -3108,7 +3195,9 @@ Bitcount Prop Double,,/Theme/Techno,50
 Bitcount Prop Single Ink,,/Expressive/Artistic,100
 Bitcount Prop Single Ink,,/Expressive/Awkward,70
 Bitcount Prop Single Ink,,/Expressive/Excited,10
-Bitcount Prop Single Ink,,/Expressive/Futuristic,80
+Bitcount Prop Single Ink,wght@100,/Expressive/Futuristic,0
+Bitcount Prop Single Ink,wght@400,/Expressive/Futuristic,80
+Bitcount Prop Single Ink,wght@900,/Expressive/Futuristic,0
 Bitcount Prop Single Ink,,/Expressive/Innovative,70
 Bitcount Prop Single Ink,wght@600,/Expressive/Loud,45
 Bitcount Prop Single Ink,wght@900,/Expressive/Loud,95
@@ -3126,7 +3215,9 @@ Bitcount Prop Single Ink,,/Theme/Techno,50
 Bitcount Prop Single,,/Expressive/Artistic,100
 Bitcount Prop Single,,/Expressive/Awkward,70
 Bitcount Prop Single,,/Expressive/Excited,10
-Bitcount Prop Single,,/Expressive/Futuristic,80
+Bitcount Prop Single,wght@100,/Expressive/Futuristic,0
+Bitcount Prop Single,wght@400,/Expressive/Futuristic,80
+Bitcount Prop Single,wght@900,/Expressive/Futuristic,0
 Bitcount Prop Single,,/Expressive/Innovative,70
 Bitcount Prop Single,wght@600,/Expressive/Loud,35
 Bitcount Prop Single,wght@900,/Expressive/Loud,91
@@ -3144,7 +3235,9 @@ Bitcount Prop Single,,/Theme/Techno,50
 Bitcount Single Ink,,/Expressive/Artistic,100
 Bitcount Single Ink,,/Expressive/Awkward,70
 Bitcount Single Ink,,/Expressive/Excited,10
-Bitcount Single Ink,,/Expressive/Futuristic,80
+Bitcount Single Ink,wght@100,/Expressive/Futuristic,0
+Bitcount Single Ink,wght@400,/Expressive/Futuristic,80
+Bitcount Single Ink,wght@900,/Expressive/Futuristic,0
 Bitcount Single Ink,,/Expressive/Innovative,70
 Bitcount Single Ink,wght@600,/Expressive/Loud,45
 Bitcount Single Ink,wght@900,/Expressive/Loud,95
@@ -3162,7 +3255,9 @@ Bitcount Single Ink,,/Theme/Techno,50
 Bitcount Single,,/Expressive/Artistic,100
 Bitcount Single,,/Expressive/Awkward,70
 Bitcount Single,,/Expressive/Excited,10
-Bitcount Single,,/Expressive/Futuristic,80
+Bitcount Single,wght@100,/Expressive/Futuristic,0
+Bitcount Single,wght@400,/Expressive/Futuristic,80
+Bitcount Single,wght@900,/Expressive/Futuristic,0
 Bitcount Single,,/Expressive/Innovative,70
 Bitcount Single,wght@600,/Expressive/Loud,35
 Bitcount Single,wght@900,/Expressive/Loud,91
@@ -3180,7 +3275,9 @@ Bitcount Single,,/Theme/Techno,50
 Bitcount,,/Expressive/Artistic,100
 Bitcount,,/Expressive/Awkward,70
 Bitcount,,/Expressive/Excited,10
-Bitcount,,/Expressive/Futuristic,80
+Bitcount,wght@100,/Expressive/Futuristic,0
+Bitcount,wght@400,/Expressive/Futuristic,80
+Bitcount,wght@900,/Expressive/Futuristic,0
 Bitcount,,/Expressive/Innovative,70
 Bitcount,wght@600,/Expressive/Loud,45
 Bitcount,wght@900,/Expressive/Loud,92
@@ -3211,17 +3308,6 @@ Bitter,,/Quality/Spacing,70
 Bitter,,/Quality/Wordspace,100
 Bitter,,/Serif/Humanist Venetian,20
 Bitter,,/Serif/Scotch,80
-BJCree,,/Expressive/Business,90
-BJCree,,/Expressive/Calm,90
-BJCree,,/Expressive/Competent,80
-BJCree,,/Expressive/Rugged,40
-BJCree,,/Expressive/Sincere,75
-BJCree,,/Expressive/Stiff,10
-BJCree,,/Quality/Concept,100
-BJCree,,/Quality/Drawing,100
-BJCree,,/Quality/Spacing,100
-BJCree,,/Quality/Wordspace,100
-BJCree,,/Sans/Humanist,100
 Black And White Picture,,/Expressive/Active,10
 Black And White Picture,,/Expressive/Awkward,94
 Black And White Picture,,/Expressive/Cute,64
@@ -3948,7 +4034,9 @@ Cagliostro,,/Quality/Spacing,80
 Cagliostro,,/Quality/Wordspace,90
 Cagliostro,,/Sans/Humanist,100
 Cagliostro,,/Script/Handwritten,10
-Cairo Play,,/Expressive/Futuristic,75
+Cairo Play,wght@200,/Expressive/Futuristic,0
+Cairo Play,wght@400,/Expressive/Futuristic,75
+Cairo Play,wght@1000,/Expressive/Futuristic,0
 Cairo Play,wght@600,/Expressive/Loud,50
 Cairo Play,wght@900,/Expressive/Loud,80
 Cairo Play,,/Expressive/Rugged,50
@@ -3963,7 +4051,9 @@ Cairo Play,,/Sans/Humanist,20
 Cairo Play,,/Sans/Superellipse,90
 Cairo,,/Expressive/Calm,74
 Cairo,,/Expressive/Competent,18
-Cairo,,/Expressive/Futuristic,75
+Cairo,wght@200,/Expressive/Futuristic,0
+Cairo,wght@400,/Expressive/Futuristic,75
+Cairo,wght@1000,/Expressive/Futuristic,0
 Cairo,wght@600,/Expressive/Loud,47
 Cairo,wght@900,/Expressive/Loud,81
 Cairo,,/Expressive/Rugged,50
@@ -4255,7 +4345,9 @@ Carter One,,/Sans/Humanist,80
 Carter One,,/Script/Handwritten,30
 Carter One,,/Seasonal/Hanukkah,95
 Cascadia Code,,/Expressive/Calm,40
-Cascadia Code,,/Expressive/Futuristic,25
+Cascadia Code,wght@200,/Expressive/Futuristic,0
+Cascadia Code,wght@400,/Expressive/Futuristic,25
+Cascadia Code,wght@700,/Expressive/Futuristic,0
 Cascadia Code,,/Expressive/Loud,4
 Cascadia Code,,/Expressive/Rugged,50
 Cascadia Code,,/Expressive/Stiff,12
@@ -4267,7 +4359,9 @@ Cascadia Code,,/Quality/Spacing,90
 Cascadia Code,,/Quality/Wordspace,100
 Cascadia Code,,/Sans/Humanist,70
 Cascadia Mono,,/Expressive/Calm,40
-Cascadia Mono,,/Expressive/Futuristic,25
+Cascadia Mono,wght@200,/Expressive/Futuristic,0
+Cascadia Mono,wght@400,/Expressive/Futuristic,25
+Cascadia Mono,wght@700,/Expressive/Futuristic,0
 Cascadia Mono,,/Expressive/Loud,4
 Cascadia Mono,,/Expressive/Rugged,50
 Cascadia Mono,,/Expressive/Stiff,12
@@ -4444,7 +4538,9 @@ Changa One,,/Sans/Superellipse,50
 Changa One,,/Theme/Techno,40
 Changa,,/Expressive/Awkward,11
 Changa,,/Expressive/Calm,40
-Changa,,/Expressive/Futuristic,78
+Changa,wght@200,/Expressive/Futuristic,0
+Changa,wght@400,/Expressive/Futuristic,78
+Changa,wght@800,/Expressive/Futuristic,0
 Changa,,/Expressive/Loud,3
 Changa,,/Expressive/Rugged,70
 Changa,,/Expressive/Stiff,56
@@ -4731,7 +4827,9 @@ Chiron Sung HK,,/Seasonal/Lunar New Year,100
 Chiron Sung HK,,/Serif/Transitional,100
 Chivo Mono,,/Expressive/Business,20
 Chivo Mono,,/Expressive/Calm,64
-Chivo Mono,,/Expressive/Futuristic,25
+Chivo Mono,wght@100,/Expressive/Futuristic,0
+Chivo Mono,wght@400,/Expressive/Futuristic,25
+Chivo Mono,wght@900,/Expressive/Futuristic,0
 Chivo Mono,wght@600,/Expressive/Loud,44
 Chivo Mono,wght@900,/Expressive/Loud,78
 Chivo Mono,,/Expressive/Rugged,55
@@ -5431,7 +5529,9 @@ Crushed,,/Quality/Wordspace,90
 Crushed,,/Theme/Wacky,10
 Cuprum,,/Expressive/Business,20
 Cuprum,,/Expressive/Calm,73
-Cuprum,,/Expressive/Futuristic,10
+Cuprum,wght@400,/Expressive/Futuristic,10
+Cuprum,wght@400,/Expressive/Futuristic,10
+Cuprum,wght@700,/Expressive/Futuristic,0
 Cuprum,,/Expressive/Loud,1
 Cuprum,,/Expressive/Rugged,30
 Cuprum,,/Expressive/Stiff,30
@@ -5959,7 +6059,9 @@ Dorsa,,/Quality/Wordspace,90
 Dorsa,,/Theme/Art Deco,40
 Dosis,,/Expressive/Business,10
 Dosis,,/Expressive/Calm,73
-Dosis,,/Expressive/Futuristic,20
+Dosis,wght@200,/Expressive/Futuristic,0
+Dosis,wght@400,/Expressive/Futuristic,20
+Dosis,wght@800,/Expressive/Futuristic,0
 Dosis,,/Expressive/Playful,6
 Dosis,,/Expressive/Rugged,30
 Dosis,,/Expressive/Stiff,20
@@ -5986,7 +6088,9 @@ DotGothic16,,/Sans/Grotesque,30
 DotGothic16,,/Theme/Techno,100
 Doto,,/Expressive/Awkward,54
 Doto,,/Expressive/Cute,5
-Doto,,/Expressive/Futuristic,40
+Doto,wght@100,/Expressive/Futuristic,0
+Doto,wght@400,/Expressive/Futuristic,40
+Doto,wght@900,/Expressive/Futuristic,0
 Doto,,/Expressive/Innovative,30
 Doto,wght@600,/Expressive/Loud,10
 Doto,wght@900,/Expressive/Loud,40
@@ -6682,7 +6786,9 @@ Exile,,/Slab/Clarendon,70
 Exo 2,,/Expressive/Business,70
 Exo 2,,/Expressive/Calm,76
 Exo 2,,/Expressive/Competent,51
-Exo 2,,/Expressive/Futuristic,62
+Exo 2,wght@100,/Expressive/Futuristic,0
+Exo 2,wght@400,/Expressive/Futuristic,62
+Exo 2,wght@900,/Expressive/Futuristic,0
 Exo 2,wght@600,/Expressive/Loud,49
 Exo 2,wght@900,/Expressive/Loud,85
 Exo 2,,/Expressive/Rugged,75
@@ -6697,7 +6803,9 @@ Exo 2,,/Sans/Superellipse,100
 Exo,,/Expressive/Business,50
 Exo,,/Expressive/Calm,75
 Exo,,/Expressive/Competent,13
-Exo,,/Expressive/Futuristic,68
+Exo,wght@100,/Expressive/Futuristic,0
+Exo,wght@400,/Expressive/Futuristic,68
+Exo,wght@900,/Expressive/Futuristic,0
 Exo,wght@600,/Expressive/Loud,50
 Exo,wght@900,/Expressive/Loud,85
 Exo,,/Expressive/Rugged,75
@@ -6967,21 +7075,11 @@ Finger Paint,,/Quality/Concept,40
 Finger Paint,,/Quality/Drawing,60
 Finger Paint,,/Quality/Spacing,60
 Finger Paint,,/Quality/Wordspace,80
-Finlandica,,/Expressive/Active,20
-Finlandica,,/Expressive/Business,65
-Finlandica,,/Expressive/Calm,78
-Finlandica,,/Expressive/Competent,50
-Finlandica,,/Expressive/Loud,1
-Finlandica,,/Expressive/Rugged,50
-Finlandica,,/Expressive/Vintage,20
-Finlandica,,/Quality/Concept,70
-Finlandica,,/Quality/Drawing,50
-Finlandica,,/Quality/Spacing,60
-Finlandica,,/Quality/Wordspace,80
-Finlandica,,/Sans/Humanist,100
 Fira Code,,/Expressive/Business,20
 Fira Code,,/Expressive/Calm,45
-Fira Code,,/Expressive/Futuristic,25
+Fira Code,wght@300,/Expressive/Futuristic,0
+Fira Code,wght@400,/Expressive/Futuristic,25
+Fira Code,wght@700,/Expressive/Futuristic,0
 Fira Code,,/Expressive/Loud,1
 Fira Code,,/Expressive/Rugged,50
 Fira Code,,/Expressive/Vintage,10
@@ -7138,7 +7236,9 @@ Flow Rounded,,/Quality/Wordspace,100
 Flow Rounded,,/Special use/Redaction,100
 Foldit,,/Expressive/Active,20
 Foldit,,/Expressive/Awkward,84
-Foldit,,/Expressive/Futuristic,30
+Foldit,wght@100,/Expressive/Futuristic,0
+Foldit,wght@400,/Expressive/Futuristic,30
+Foldit,wght@900,/Expressive/Futuristic,0
 Foldit,,/Expressive/Innovative,75
 Foldit,wght@600,/Expressive/Loud,46
 Foldit,wght@900,/Expressive/Loud,92
@@ -7397,7 +7497,9 @@ Fuggles,,/Seasonal/Diwali,75
 Funnel Display,,/Expressive/Business,30
 Funnel Display,,/Expressive/Calm,60
 Funnel Display,,/Expressive/Competent,30
-Funnel Display,,/Expressive/Futuristic,20
+Funnel Display,wght@300,/Expressive/Futuristic,0
+Funnel Display,wght@400,/Expressive/Futuristic,20
+Funnel Display,wght@800,/Expressive/Futuristic,0
 Funnel Display,,/Expressive/Loud,1
 Funnel Display,,/Expressive/Rugged,50
 Funnel Display,,/Expressive/Sincere,20
@@ -7657,7 +7759,9 @@ Gayathri,,/Sans/Rounded,90
 Gayathri,,/Seasonal/Diwali,92
 Geist Mono,,/Expressive/Business,10
 Geist Mono,,/Expressive/Calm,52
-Geist Mono,,/Expressive/Futuristic,25
+Geist Mono,wght@100,/Expressive/Futuristic,0
+Geist Mono,wght@400,/Expressive/Futuristic,25
+Geist Mono,wght@900,/Expressive/Futuristic,0
 Geist Mono,wght@600,/Expressive/Loud,33
 Geist Mono,wght@900,/Expressive/Loud,84
 Geist Mono,,/Expressive/Rugged,55
@@ -7695,7 +7799,9 @@ Gelasio,,/Serif/Transitional,100
 Gemunu Libre,,/Expressive/Active,5
 Gemunu Libre,,/Expressive/Awkward,10
 Gemunu Libre,,/Expressive/Calm,60
-Gemunu Libre,,/Expressive/Futuristic,89
+Gemunu Libre,wght@200,/Expressive/Futuristic,0
+Gemunu Libre,wght@400,/Expressive/Futuristic,89
+Gemunu Libre,wght@800,/Expressive/Futuristic,0
 Gemunu Libre,,/Expressive/Loud,1
 Gemunu Libre,,/Expressive/Rugged,65
 Gemunu Libre,,/Expressive/Stiff,83
@@ -7708,7 +7814,9 @@ Gemunu Libre,,/Sans/Geometric,50
 Gemunu Libre,,/Theme/Techno,70
 Genos,,/Expressive/Awkward,48
 Genos,,/Expressive/Calm,20
-Genos,,/Expressive/Futuristic,70
+Genos,wght@100,/Expressive/Futuristic,0
+Genos,wght@400,/Expressive/Futuristic,70
+Genos,wght@900,/Expressive/Futuristic,0
 Genos,wght@600,/Expressive/Loud,53
 Genos,wght@900,/Expressive/Loud,88
 Genos,,/Expressive/Rugged,30
@@ -7770,7 +7878,9 @@ Geologica,,/Sans/Geometric,10
 Geologica,,/Sans/Humanist,90
 Geom,,/Expressive/Active,20
 Geom,,/Expressive/Awkward,10
-Geom,,/Expressive/Futuristic,20
+Geom,wght@300,/Expressive/Futuristic,0
+Geom,wght@400,/Expressive/Futuristic,20
+Geom,wght@900,/Expressive/Futuristic,0
 Geom,wght@600,/Expressive/Loud,53
 Geom,wght@900,/Expressive/Loud,83
 Geom,,/Quality/Concept,70
@@ -7780,7 +7890,9 @@ Geom,,/Quality/Wordspace,80
 Geom,,/Sans/Geometric,100
 Georama,,/Expressive/Business,55
 Georama,,/Expressive/Calm,87
-Georama,,/Expressive/Futuristic,15
+Georama,wght@100,/Expressive/Futuristic,0
+Georama,wght@400,/Expressive/Futuristic,15
+Georama,wght@900,/Expressive/Futuristic,0
 Georama,wght@600,/Expressive/Loud,48
 Georama,wght@900,/Expressive/Loud,84
 Georama,,/Expressive/Rugged,50
@@ -7950,7 +8062,9 @@ Gloria Hallelujah,,/Script/Handwritten,100
 Gloria Hallelujah,,/Script/Informal,100
 Gloria Hallelujah,,/Script/Upright Script,10
 Glory,,/Expressive/Calm,74
-Glory,,/Expressive/Futuristic,10
+Glory,wght@100,/Expressive/Futuristic,0
+Glory,wght@400,/Expressive/Futuristic,10
+Glory,wght@800,/Expressive/Futuristic,0
 Glory,,/Expressive/Playful,5
 Glory,,/Expressive/Rugged,40
 Glory,,/Expressive/Vintage,20
@@ -8026,7 +8140,9 @@ Goldman,,/Theme/Techno,100
 Golos Text,,/Expressive/Business,80
 Golos Text,,/Expressive/Calm,85
 Golos Text,,/Expressive/Competent,60
-Golos Text,,/Expressive/Futuristic,10
+Golos Text,wght@400,/Expressive/Futuristic,10
+Golos Text,wght@400,/Expressive/Futuristic,10
+Golos Text,wght@900,/Expressive/Futuristic,0
 Golos Text,wght@600,/Expressive/Loud,42
 Golos Text,wght@900,/Expressive/Loud,78
 Golos Text,,/Expressive/Rugged,50
@@ -8040,7 +8156,9 @@ Golos Text,,/Quality/Wordspace,100
 Golos Text,,/Sans/Neo Grotesque,100
 Google Sans Code,,/Expressive/Business,60
 Google Sans Code,,/Expressive/Calm,50
-Google Sans Code,,/Expressive/Futuristic,25
+Google Sans Code,wght@300,/Expressive/Futuristic,0
+Google Sans Code,wght@400,/Expressive/Futuristic,25
+Google Sans Code,wght@800,/Expressive/Futuristic,0
 Google Sans Code,,/Expressive/Loud,1
 Google Sans Code,,/Expressive/Rugged,48
 Google Sans Code,,/Expressive/Stiff,20
@@ -8504,7 +8622,9 @@ Hanalei,,/Quality/Wordspace,90
 Hanalei,,/Sans/Glyphic,50
 Hanalei,,/Theme/Wacky,20
 Handjet,,/Expressive/Awkward,50
-Handjet,,/Expressive/Futuristic,77
+Handjet,wght@100,/Expressive/Futuristic,0
+Handjet,wght@400,/Expressive/Futuristic,77
+Handjet,wght@900,/Expressive/Futuristic,0
 Handjet,,/Expressive/Innovative,10
 Handjet,wght@600,/Expressive/Loud,60
 Handjet,wght@900,/Expressive/Loud,80
@@ -8877,7 +8997,9 @@ Hubballi,,/Script/Handwritten,30
 Hubot Sans,,/Expressive/Business,75
 Hubot Sans,,/Expressive/Calm,70
 Hubot Sans,,/Expressive/Competent,10
-Hubot Sans,,/Expressive/Futuristic,20
+Hubot Sans,wght@200,/Expressive/Futuristic,0
+Hubot Sans,wght@400,/Expressive/Futuristic,20
+Hubot Sans,wght@900,/Expressive/Futuristic,0
 Hubot Sans,wght@600,/Expressive/Loud,42
 Hubot Sans,wght@900,/Expressive/Loud,78
 Hubot Sans,,/Expressive/Rugged,60
@@ -9055,7 +9177,9 @@ IBM Plex Sans Thai,,/Sans/Superellipse,10
 IBM Plex Sans,,/Expressive/Business,92
 IBM Plex Sans,,/Expressive/Calm,80
 IBM Plex Sans,,/Expressive/Competent,90
-IBM Plex Sans,,/Expressive/Futuristic,5
+IBM Plex Sans,wght@100,/Expressive/Futuristic,0
+IBM Plex Sans,wght@400,/Expressive/Futuristic,5
+IBM Plex Sans,wght@700,/Expressive/Futuristic,0
 IBM Plex Sans,,/Expressive/Loud,1
 IBM Plex Sans,,/Expressive/Rugged,50
 IBM Plex Sans,,/Expressive/Sincere,70
@@ -9291,7 +9415,9 @@ Inclusive Sans,,/Sans/Geometric,20
 Inclusive Sans,,/Sans/Neo Grotesque,80
 Inconsolata,,/Expressive/Business,20
 Inconsolata,,/Expressive/Calm,79
-Inconsolata,,/Expressive/Futuristic,25
+Inconsolata,wght@200,/Expressive/Futuristic,0
+Inconsolata,wght@400,/Expressive/Futuristic,25
+Inconsolata,wght@900,/Expressive/Futuristic,0
 Inconsolata,wght@600,/Expressive/Loud,34
 Inconsolata,wght@900,/Expressive/Loud,80
 Inconsolata,,/Expressive/Rugged,40
@@ -9448,7 +9574,9 @@ Intel One Mono,,/Sans/Humanist,80
 Inter Tight,,/Expressive/Business,70
 Inter Tight,,/Expressive/Calm,80
 Inter Tight,,/Expressive/Competent,80
-Inter Tight,,/Expressive/Futuristic,5
+Inter Tight,wght@100,/Expressive/Futuristic,0
+Inter Tight,wght@400,/Expressive/Futuristic,5
+Inter Tight,wght@900,/Expressive/Futuristic,0
 Inter Tight,wght@600,/Expressive/Loud,47
 Inter Tight,wght@900,/Expressive/Loud,80
 Inter Tight,,/Expressive/Rugged,55
@@ -9464,7 +9592,9 @@ Inter Tight,,/Sans/Neo Grotesque,100
 Inter,,/Expressive/Business,85
 Inter,,/Expressive/Calm,80
 Inter,,/Expressive/Competent,91
-Inter,,/Expressive/Futuristic,5
+Inter,wght@100,/Expressive/Futuristic,0
+Inter,wght@400,/Expressive/Futuristic,5
+Inter,wght@900,/Expressive/Futuristic,0
 Inter,wght@600,/Expressive/Loud,50
 Inter,wght@900,/Expressive/Loud,85
 Inter,,/Expressive/Rugged,55
@@ -9477,17 +9607,6 @@ Inter,,/Quality/Wordspace,80
 Inter,,/Sans/Geometric,20
 Inter,,/Sans/Humanist,10
 Inter,,/Sans/Neo Grotesque,100
-Iosevka Charon,,/Expressive/Business,60
-Iosevka Charon,,/Expressive/Calm,75
-Iosevka Charon,,/Expressive/Futuristic,25
-Iosevka Charon,,/Expressive/Rugged,40
-Iosevka Charon,,/Expressive/Stiff,20
-Iosevka Charon,,/Expressive/Vintage,5
-Iosevka Charon,,/Quality/Concept,90
-Iosevka Charon,,/Quality/Drawing,90
-Iosevka Charon,,/Quality/Spacing,90
-Iosevka Charon,,/Quality/Wordspace,100
-Iosevka Charon,,/Sans/Neo Grotesque,80
 Iosevka Charon Mono,,/Expressive/Business,60
 Iosevka Charon Mono,,/Expressive/Calm,75
 Iosevka Charon Mono,,/Expressive/Futuristic,25
@@ -9500,6 +9619,17 @@ Iosevka Charon Mono,,/Quality/Drawing,90
 Iosevka Charon Mono,,/Quality/Spacing,90
 Iosevka Charon Mono,,/Quality/Wordspace,100
 Iosevka Charon Mono,,/Sans/Neo Grotesque,80
+Iosevka Charon,,/Expressive/Business,60
+Iosevka Charon,,/Expressive/Calm,75
+Iosevka Charon,,/Expressive/Futuristic,25
+Iosevka Charon,,/Expressive/Rugged,40
+Iosevka Charon,,/Expressive/Stiff,20
+Iosevka Charon,,/Expressive/Vintage,5
+Iosevka Charon,,/Quality/Concept,90
+Iosevka Charon,,/Quality/Drawing,90
+Iosevka Charon,,/Quality/Spacing,90
+Iosevka Charon,,/Quality/Wordspace,100
+Iosevka Charon,,/Sans/Neo Grotesque,80
 Irish Grover,,/Expressive/Awkward,91
 Irish Grover,,/Expressive/Cute,10
 Irish Grover,,/Expressive/Excited,82
@@ -9837,7 +9967,9 @@ Jersey 25,,/Quality/Wordspace,80
 Jersey 25,,/Theme/Pixel,100
 JetBrains Mono,,/Expressive/Business,20
 JetBrains Mono,,/Expressive/Calm,74
-JetBrains Mono,,/Expressive/Futuristic,25
+JetBrains Mono,wght@100,/Expressive/Futuristic,0
+JetBrains Mono,wght@400,/Expressive/Futuristic,25
+JetBrains Mono,wght@800,/Expressive/Futuristic,0
 JetBrains Mono,,/Expressive/Loud,1
 JetBrains Mono,,/Expressive/Rugged,60
 JetBrains Mono,,/Expressive/Stiff,30
@@ -10038,7 +10170,9 @@ Junge,,/Serif/Humanist Venetian,30
 Junge,,/Serif/Transitional,50
 Jura,,/Expressive/Business,40
 Jura,,/Expressive/Calm,68
-Jura,,/Expressive/Futuristic,75
+Jura,wght@300,/Expressive/Futuristic,0
+Jura,wght@400,/Expressive/Futuristic,75
+Jura,wght@700,/Expressive/Futuristic,0
 Jura,,/Expressive/Rugged,60
 Jura,,/Expressive/Sincere,20
 Jura,,/Expressive/Stiff,65
@@ -10204,7 +10338,9 @@ Kalnia Glaze,,/Expressive/Active,20
 Kalnia Glaze,,/Expressive/Awkward,55
 Kalnia Glaze,,/Expressive/Cute,42
 Kalnia Glaze,,/Expressive/Excited,10
-Kalnia Glaze,,/Expressive/Futuristic,10
+Kalnia Glaze,wght@100,/Expressive/Futuristic,0
+Kalnia Glaze,wght@400,/Expressive/Futuristic,10
+Kalnia Glaze,wght@700,/Expressive/Futuristic,0
 Kalnia Glaze,,/Expressive/Happy,40
 Kalnia Glaze,,/Expressive/Innovative,75
 Kalnia Glaze,,/Expressive/Playful,65
@@ -10642,7 +10778,9 @@ Kodchasan,,/Quality/Wordspace,80
 Kodchasan,,/Sans/Geometric,100
 Kodchasan,,/Sans/Rounded,100
 Kode Mono,,/Expressive/Awkward,45
-Kode Mono,,/Expressive/Futuristic,30
+Kode Mono,wght@400,/Expressive/Futuristic,30
+Kode Mono,wght@400,/Expressive/Futuristic,30
+Kode Mono,wght@700,/Expressive/Futuristic,0
 Kode Mono,,/Expressive/Loud,1
 Kode Mono,,/Expressive/Rugged,65
 Kode Mono,,/Expressive/Stiff,66
@@ -11495,7 +11633,9 @@ Life Savers,,/Seasonal/Valentine's Day,80
 Life Savers,,/Theme/Wacky,50
 Lilex,,/Expressive/Business,30
 Lilex,,/Expressive/Calm,75
-Lilex,,/Expressive/Futuristic,24
+Lilex,wght@100,/Expressive/Futuristic,0
+Lilex,wght@400,/Expressive/Futuristic,24
+Lilex,wght@700,/Expressive/Futuristic,0
 Lilex,,/Expressive/Loud,1
 Lilex,,/Expressive/Rugged,40
 Lilex,,/Expressive/Stiff,20
@@ -11929,7 +12069,9 @@ Luxurious Script,,/Seasonal/Diwali,90
 Luxurious Script,,/Seasonal/Valentine's Day,73
 M PLUS 1 Code,,/Expressive/Business,80
 M PLUS 1 Code,,/Expressive/Calm,48
-M PLUS 1 Code,,/Expressive/Futuristic,22
+M PLUS 1 Code,wght@100,/Expressive/Futuristic,0
+M PLUS 1 Code,wght@400,/Expressive/Futuristic,22
+M PLUS 1 Code,wght@700,/Expressive/Futuristic,0
 M PLUS 1 Code,,/Expressive/Loud,1
 M PLUS 1 Code,,/Expressive/Rugged,50
 M PLUS 1 Code,,/Expressive/Stiff,20
@@ -11986,7 +12128,9 @@ M PLUS 2,,/Sans/Geometric,50
 M PLUS 2,,/Sans/Humanist,50
 M PLUS Code Latin,,/Expressive/Business,20
 M PLUS Code Latin,,/Expressive/Calm,52
-M PLUS Code Latin,,/Expressive/Futuristic,22
+M PLUS Code Latin,wght@100,/Expressive/Futuristic,0
+M PLUS Code Latin,wght@400,/Expressive/Futuristic,22
+M PLUS Code Latin,wght@700,/Expressive/Futuristic,0
 M PLUS Code Latin,,/Expressive/Loud,1
 M PLUS Code Latin,,/Expressive/Rugged,50
 M PLUS Code Latin,,/Expressive/Stiff,21
@@ -12347,7 +12491,9 @@ Marhey,,/Script/Upright Script,30
 Marhey,,/Seasonal/Kwanzaa,60
 Marhey,,/Theme/Brush,50
 Markazi Text,,/Expressive/Business,90
-Markazi Text,,/Expressive/Futuristic,20
+Markazi Text,wght@400,/Expressive/Futuristic,20
+Markazi Text,wght@400,/Expressive/Futuristic,20
+Markazi Text,wght@700,/Expressive/Futuristic,0
 Markazi Text,,/Expressive/Loud,1
 Markazi Text,,/Expressive/Rugged,20
 Markazi Text,,/Expressive/Vintage,50
@@ -12412,7 +12558,9 @@ Martel,,/Serif/Humanist Venetian,20
 Martel,,/Serif/Old Style Garalde,20
 Martian Mono,,/Expressive/Business,50
 Martian Mono,,/Expressive/Calm,20
-Martian Mono,,/Expressive/Futuristic,22
+Martian Mono,wght@100,/Expressive/Futuristic,0
+Martian Mono,wght@400,/Expressive/Futuristic,22
+Martian Mono,wght@800,/Expressive/Futuristic,0
 Martian Mono,,/Expressive/Loud,6
 Martian Mono,,/Expressive/Rugged,50
 Martian Mono,,/Expressive/Sincere,40
@@ -12438,7 +12586,9 @@ Marvel,,/Quality/Wordspace,90
 Marvel,,/Sans/Humanist,70
 Marvel,,/Sans/Superellipse,70
 Matangi,,/Expressive/Calm,58
-Matangi,,/Expressive/Futuristic,10
+Matangi,wght@300,/Expressive/Futuristic,0
+Matangi,wght@400,/Expressive/Futuristic,10
+Matangi,wght@900,/Expressive/Futuristic,0
 Matangi,wght@600,/Expressive/Loud,41
 Matangi,wght@900,/Expressive/Loud,83
 Matangi,,/Expressive/Rugged,46
@@ -12495,6 +12645,8 @@ Maven Pro,,/Expressive/Rugged,44
 Maven Pro,,/Expressive/Sincere,40
 Maven Pro,,/Expressive/Stiff,20
 Maven Pro,,/Expressive/Vintage,10
+Maven Pro,wght@400,/Purpose/Easy Reading,10
+Maven Pro,wght@900,/Purpose/Easy Reading,100
 Maven Pro,wght@400,/Purpose/Easy Reading,10
 Maven Pro,wght@900,/Purpose/Easy Reading,100
 Maven Pro,,/Quality/Concept,50
@@ -12613,7 +12765,9 @@ Menbere,,/Expressive/Active,5
 Menbere,,/Expressive/Business,88
 Menbere,,/Expressive/Calm,70
 Menbere,,/Expressive/Competent,74
-Menbere,,/Expressive/Futuristic,10
+Menbere,wght@100,/Expressive/Futuristic,0
+Menbere,wght@400,/Expressive/Futuristic,10
+Menbere,wght@700,/Expressive/Futuristic,0
 Menbere,,/Expressive/Loud,4
 Menbere,,/Expressive/Rugged,40
 Menbere,,/Expressive/Sincere,60
@@ -12666,7 +12820,9 @@ Merienda,,/Theme/Brush,100
 Merriweather Sans,,/Expressive/Business,88
 Merriweather Sans,,/Expressive/Calm,94
 Merriweather Sans,,/Expressive/Competent,88
-Merriweather Sans,,/Expressive/Futuristic,10
+Merriweather Sans,wght@300,/Expressive/Futuristic,0
+Merriweather Sans,wght@400,/Expressive/Futuristic,10
+Merriweather Sans,wght@800,/Expressive/Futuristic,0
 Merriweather Sans,,/Expressive/Happy,5
 Merriweather Sans,,/Expressive/Loud,6
 Merriweather Sans,,/Expressive/Rugged,49
@@ -12682,7 +12838,9 @@ Merriweather,,/Expressive/Active,10
 Merriweather,,/Expressive/Business,90
 Merriweather,,/Expressive/Calm,20
 Merriweather,,/Expressive/Competent,92
-Merriweather,,/Expressive/Futuristic,5
+Merriweather,wght@300,/Expressive/Futuristic,0
+Merriweather,wght@400,/Expressive/Futuristic,5
+Merriweather,wght@900,/Expressive/Futuristic,0
 Merriweather,,/Expressive/Happy,10
 Merriweather,wght@600,/Expressive/Loud,43
 Merriweather,wght@900,/Expressive/Loud,83
@@ -12872,7 +13030,9 @@ Miranda Sans,,/Quality/Spacing,80
 Miranda Sans,,/Quality/Wordspace,90
 Miranda Sans,,/Sans/Neo Grotesque,100
 Miriam Libre,,/Expressive/Calm,82
-Miriam Libre,,/Expressive/Futuristic,10
+Miriam Libre,wght@400,/Expressive/Futuristic,10
+Miriam Libre,wght@400,/Expressive/Futuristic,10
+Miriam Libre,wght@700,/Expressive/Futuristic,0
 Miriam Libre,,/Expressive/Loud,1
 Miriam Libre,,/Expressive/Rugged,45
 Miriam Libre,,/Expressive/Stiff,10
@@ -12980,7 +13140,9 @@ Modern Antiqua,,/Quality/Wordspace,60
 Modern Antiqua,,/Theme/Medieval,70
 Moderustic,,/Expressive/Business,60
 Moderustic,,/Expressive/Calm,10
-Moderustic,,/Expressive/Futuristic,6
+Moderustic,wght@300,/Expressive/Futuristic,0
+Moderustic,wght@400,/Expressive/Futuristic,6
+Moderustic,wght@800,/Expressive/Futuristic,0
 Moderustic,,/Expressive/Loud,1
 Moderustic,,/Expressive/Rugged,45
 Moderustic,,/Expressive/Sincere,60
@@ -13011,7 +13173,9 @@ Mogra,,/Theme/Brush,100
 Mohave,,/Expressive/Active,10
 Mohave,,/Expressive/Business,30
 Mohave,,/Expressive/Calm,65
-Mohave,,/Expressive/Futuristic,66
+Mohave,wght@300,/Expressive/Futuristic,0
+Mohave,wght@400,/Expressive/Futuristic,66
+Mohave,wght@700,/Expressive/Futuristic,0
 Mohave,,/Expressive/Rugged,45
 Mohave,,/Expressive/Sincere,20
 Mohave,,/Expressive/Stiff,22
@@ -13116,7 +13280,9 @@ Mona Sans,,/Sans/Grotesque,95
 Monda,,/Expressive/Business,40
 Monda,,/Expressive/Calm,60
 Monda,,/Expressive/Competent,45
-Monda,,/Expressive/Futuristic,83
+Monda,wght@400,/Expressive/Futuristic,83
+Monda,wght@400,/Expressive/Futuristic,83
+Monda,wght@700,/Expressive/Futuristic,0
 Monda,,/Expressive/Loud,1
 Monda,,/Expressive/Rugged,50
 Monda,,/Expressive/Stiff,12
@@ -13284,7 +13450,9 @@ Montserrat Underline,,/Sans/Geometric,100
 Montserrat,,/Expressive/Business,70
 Montserrat,,/Expressive/Calm,93
 Montserrat,,/Expressive/Competent,20
-Montserrat,,/Expressive/Futuristic,20
+Montserrat,wght@100,/Expressive/Futuristic,0
+Montserrat,wght@400,/Expressive/Futuristic,20
+Montserrat,wght@900,/Expressive/Futuristic,0
 Montserrat,wght@600,/Expressive/Loud,36
 Montserrat,wght@900,/Expressive/Loud,85
 Montserrat,,/Expressive/Rugged,45
@@ -13600,7 +13768,9 @@ Murecho,,/Sans/Humanist,100
 MuseoModerno,,/Expressive/Awkward,25
 MuseoModerno,,/Expressive/Calm,50
 MuseoModerno,,/Expressive/Cute,10
-MuseoModerno,,/Expressive/Futuristic,30
+MuseoModerno,wght@100,/Expressive/Futuristic,0
+MuseoModerno,wght@400,/Expressive/Futuristic,30
+MuseoModerno,wght@900,/Expressive/Futuristic,0
 MuseoModerno,,/Expressive/Happy,10
 MuseoModerno,wght@600,/Expressive/Loud,53
 MuseoModerno,wght@900,/Expressive/Loud,83
@@ -13975,7 +14145,9 @@ Nobile,,/Sans/Humanist,100
 Nokora,,/Expressive/Business,40
 Nokora,,/Expressive/Calm,90
 Nokora,,/Expressive/Competent,80
-Nokora,,/Expressive/Futuristic,10
+Nokora,wght@100,/Expressive/Futuristic,0
+Nokora,wght@400,/Expressive/Futuristic,10
+Nokora,wght@900,/Expressive/Futuristic,0
 Nokora,wght@600,/Expressive/Loud,44
 Nokora,wght@900,/Expressive/Loud,82
 Nokora,,/Expressive/Rugged,45
@@ -14067,7 +14239,9 @@ Noto Emoji,,/Special use/Symbols,100
 Noto Kufi Arabic,,/Expressive/Business,90
 Noto Kufi Arabic,,/Expressive/Calm,90
 Noto Kufi Arabic,,/Expressive/Competent,80
-Noto Kufi Arabic,,/Expressive/Futuristic,10
+Noto Kufi Arabic,wght@100,/Expressive/Futuristic,0
+Noto Kufi Arabic,wght@400,/Expressive/Futuristic,10
+Noto Kufi Arabic,wght@900,/Expressive/Futuristic,0
 Noto Kufi Arabic,wght@600,/Expressive/Loud,33
 Noto Kufi Arabic,wght@900,/Expressive/Loud,82
 Noto Kufi Arabic,,/Expressive/Rugged,40
@@ -14124,7 +14298,9 @@ Noto Rashi Hebrew,,/Serif/Transitional,100
 Noto Sans Adlam Unjoined,,/Expressive/Business,90
 Noto Sans Adlam Unjoined,,/Expressive/Calm,90
 Noto Sans Adlam Unjoined,,/Expressive/Competent,80
-Noto Sans Adlam Unjoined,,/Expressive/Futuristic,10
+Noto Sans Adlam Unjoined,wght@400,/Expressive/Futuristic,10
+Noto Sans Adlam Unjoined,wght@400,/Expressive/Futuristic,10
+Noto Sans Adlam Unjoined,wght@700,/Expressive/Futuristic,0
 Noto Sans Adlam Unjoined,,/Expressive/Loud,1
 Noto Sans Adlam Unjoined,,/Expressive/Rugged,40
 Noto Sans Adlam Unjoined,,/Expressive/Sincere,75
@@ -14137,7 +14313,9 @@ Noto Sans Adlam Unjoined,,/Sans/Humanist,100
 Noto Sans Adlam,,/Expressive/Business,90
 Noto Sans Adlam,,/Expressive/Calm,90
 Noto Sans Adlam,,/Expressive/Competent,80
-Noto Sans Adlam,,/Expressive/Futuristic,10
+Noto Sans Adlam,wght@400,/Expressive/Futuristic,10
+Noto Sans Adlam,wght@400,/Expressive/Futuristic,10
+Noto Sans Adlam,wght@700,/Expressive/Futuristic,0
 Noto Sans Adlam,,/Expressive/Loud,1
 Noto Sans Adlam,,/Expressive/Rugged,40
 Noto Sans Adlam,,/Expressive/Sincere,75
@@ -14163,7 +14341,9 @@ Noto Sans Anatolian Hieroglyphs,,/Sans/Humanist,100
 Noto Sans Arabic,,/Expressive/Business,90
 Noto Sans Arabic,,/Expressive/Calm,90
 Noto Sans Arabic,,/Expressive/Competent,80
-Noto Sans Arabic,,/Expressive/Futuristic,10
+Noto Sans Arabic,wght@100,/Expressive/Futuristic,0
+Noto Sans Arabic,wght@400,/Expressive/Futuristic,10
+Noto Sans Arabic,wght@900,/Expressive/Futuristic,0
 Noto Sans Arabic,wght@600,/Expressive/Loud,33
 Noto Sans Arabic,wght@900,/Expressive/Loud,82
 Noto Sans Arabic,,/Expressive/Rugged,40
@@ -14177,7 +14357,9 @@ Noto Sans Arabic,,/Sans/Humanist,100
 Noto Sans Armenian,,/Expressive/Business,90
 Noto Sans Armenian,,/Expressive/Calm,90
 Noto Sans Armenian,,/Expressive/Competent,80
-Noto Sans Armenian,,/Expressive/Futuristic,10
+Noto Sans Armenian,wght@100,/Expressive/Futuristic,0
+Noto Sans Armenian,wght@400,/Expressive/Futuristic,10
+Noto Sans Armenian,wght@900,/Expressive/Futuristic,0
 Noto Sans Armenian,wght@600,/Expressive/Loud,45
 Noto Sans Armenian,wght@900,/Expressive/Loud,80
 Noto Sans Armenian,,/Expressive/Rugged,40
@@ -14204,7 +14386,9 @@ Noto Sans Avestan,,/Sans/Humanist,100
 Noto Sans Balinese,,/Expressive/Business,90
 Noto Sans Balinese,,/Expressive/Calm,90
 Noto Sans Balinese,,/Expressive/Competent,80
-Noto Sans Balinese,,/Expressive/Futuristic,10
+Noto Sans Balinese,wght@400,/Expressive/Futuristic,10
+Noto Sans Balinese,wght@400,/Expressive/Futuristic,10
+Noto Sans Balinese,wght@700,/Expressive/Futuristic,0
 Noto Sans Balinese,,/Expressive/Loud,1
 Noto Sans Balinese,,/Expressive/Rugged,40
 Noto Sans Balinese,,/Expressive/Sincere,75
@@ -14217,7 +14401,9 @@ Noto Sans Balinese,,/Sans/Humanist,100
 Noto Sans Bamum,,/Expressive/Business,90
 Noto Sans Bamum,,/Expressive/Calm,90
 Noto Sans Bamum,,/Expressive/Competent,80
-Noto Sans Bamum,,/Expressive/Futuristic,10
+Noto Sans Bamum,wght@400,/Expressive/Futuristic,10
+Noto Sans Bamum,wght@400,/Expressive/Futuristic,10
+Noto Sans Bamum,wght@700,/Expressive/Futuristic,0
 Noto Sans Bamum,,/Expressive/Loud,1
 Noto Sans Bamum,,/Expressive/Rugged,40
 Noto Sans Bamum,,/Expressive/Sincere,75
@@ -14230,7 +14416,9 @@ Noto Sans Bamum,,/Sans/Humanist,100
 Noto Sans Bassa Vah,,/Expressive/Business,90
 Noto Sans Bassa Vah,,/Expressive/Calm,90
 Noto Sans Bassa Vah,,/Expressive/Competent,80
-Noto Sans Bassa Vah,,/Expressive/Futuristic,10
+Noto Sans Bassa Vah,wght@400,/Expressive/Futuristic,10
+Noto Sans Bassa Vah,wght@400,/Expressive/Futuristic,10
+Noto Sans Bassa Vah,wght@700,/Expressive/Futuristic,0
 Noto Sans Bassa Vah,,/Expressive/Loud,1
 Noto Sans Bassa Vah,,/Expressive/Rugged,40
 Noto Sans Bassa Vah,,/Expressive/Sincere,75
@@ -14256,7 +14444,9 @@ Noto Sans Batak,,/Sans/Humanist,100
 Noto Sans Bengali,,/Expressive/Business,90
 Noto Sans Bengali,,/Expressive/Calm,90
 Noto Sans Bengali,,/Expressive/Competent,80
-Noto Sans Bengali,,/Expressive/Futuristic,10
+Noto Sans Bengali,wght@100,/Expressive/Futuristic,0
+Noto Sans Bengali,wght@400,/Expressive/Futuristic,10
+Noto Sans Bengali,wght@900,/Expressive/Futuristic,0
 Noto Sans Bengali,wght@600,/Expressive/Loud,45
 Noto Sans Bengali,wght@900,/Expressive/Loud,80
 Noto Sans Bengali,,/Expressive/Rugged,40
@@ -14322,7 +14512,9 @@ Noto Sans Buhid,,/Sans/Humanist,100
 Noto Sans Canadian Aboriginal,,/Expressive/Business,90
 Noto Sans Canadian Aboriginal,,/Expressive/Calm,90
 Noto Sans Canadian Aboriginal,,/Expressive/Competent,80
-Noto Sans Canadian Aboriginal,,/Expressive/Futuristic,10
+Noto Sans Canadian Aboriginal,wght@100,/Expressive/Futuristic,0
+Noto Sans Canadian Aboriginal,wght@400,/Expressive/Futuristic,10
+Noto Sans Canadian Aboriginal,wght@900,/Expressive/Futuristic,0
 Noto Sans Canadian Aboriginal,wght@600,/Expressive/Loud,45
 Noto Sans Canadian Aboriginal,wght@900,/Expressive/Loud,80
 Noto Sans Canadian Aboriginal,,/Expressive/Rugged,40
@@ -15909,7 +16101,9 @@ Noto Sans Tamil Supplement,,/Sans/Humanist,100
 Noto Sans Tamil,,/Expressive/Business,90
 Noto Sans Tamil,,/Expressive/Calm,90
 Noto Sans Tamil,,/Expressive/Competent,80
-Noto Sans Tamil,,/Expressive/Futuristic,10
+Noto Sans Tamil,wght@100,/Expressive/Futuristic,0
+Noto Sans Tamil,wght@400,/Expressive/Futuristic,10
+Noto Sans Tamil,wght@900,/Expressive/Futuristic,0
 Noto Sans Tamil,wght@600,/Expressive/Loud,45
 Noto Sans Tamil,wght@900,/Expressive/Loud,80
 Noto Sans Tamil,,/Expressive/Rugged,50
@@ -15923,7 +16117,9 @@ Noto Sans Tamil,,/Sans/Humanist,100
 Noto Sans Tangsa,,/Expressive/Business,90
 Noto Sans Tangsa,,/Expressive/Calm,90
 Noto Sans Tangsa,,/Expressive/Competent,80
-Noto Sans Tangsa,,/Expressive/Futuristic,10
+Noto Sans Tangsa,wght@400,/Expressive/Futuristic,10
+Noto Sans Tangsa,wght@400,/Expressive/Futuristic,10
+Noto Sans Tangsa,wght@700,/Expressive/Futuristic,0
 Noto Sans Tangsa,,/Expressive/Loud,1
 Noto Sans Tangsa,,/Expressive/Rugged,50
 Noto Sans Tangsa,,/Expressive/Sincere,75
@@ -15936,7 +16132,9 @@ Noto Sans Tangsa,,/Sans/Humanist,100
 Noto Sans Telugu,,/Expressive/Business,90
 Noto Sans Telugu,,/Expressive/Calm,90
 Noto Sans Telugu,,/Expressive/Competent,80
-Noto Sans Telugu,,/Expressive/Futuristic,10
+Noto Sans Telugu,wght@100,/Expressive/Futuristic,0
+Noto Sans Telugu,wght@400,/Expressive/Futuristic,10
+Noto Sans Telugu,wght@900,/Expressive/Futuristic,0
 Noto Sans Telugu,wght@600,/Expressive/Loud,45
 Noto Sans Telugu,wght@900,/Expressive/Loud,80
 Noto Sans Telugu,,/Expressive/Rugged,50
@@ -15950,7 +16148,9 @@ Noto Sans Telugu,,/Sans/Humanist,100
 Noto Sans Thaana,,/Expressive/Business,90
 Noto Sans Thaana,,/Expressive/Calm,90
 Noto Sans Thaana,,/Expressive/Competent,80
-Noto Sans Thaana,,/Expressive/Futuristic,10
+Noto Sans Thaana,wght@100,/Expressive/Futuristic,0
+Noto Sans Thaana,wght@400,/Expressive/Futuristic,10
+Noto Sans Thaana,wght@900,/Expressive/Futuristic,0
 Noto Sans Thaana,wght@600,/Expressive/Loud,45
 Noto Sans Thaana,wght@900,/Expressive/Loud,80
 Noto Sans Thaana,,/Expressive/Rugged,50
@@ -15964,7 +16164,9 @@ Noto Sans Thaana,,/Sans/Humanist,100
 Noto Sans Thai Looped,,/Expressive/Business,90
 Noto Sans Thai Looped,,/Expressive/Calm,90
 Noto Sans Thai Looped,,/Expressive/Competent,80
-Noto Sans Thai Looped,,/Expressive/Futuristic,10
+Noto Sans Thai Looped,wght@100,/Expressive/Futuristic,0
+Noto Sans Thai Looped,wght@400,/Expressive/Futuristic,10
+Noto Sans Thai Looped,wght@900,/Expressive/Futuristic,0
 Noto Sans Thai Looped,wght@600,/Expressive/Loud,45
 Noto Sans Thai Looped,wght@900,/Expressive/Loud,80
 Noto Sans Thai Looped,,/Expressive/Rugged,50
@@ -15978,7 +16180,9 @@ Noto Sans Thai Looped,,/Sans/Humanist,100
 Noto Sans Thai,,/Expressive/Business,90
 Noto Sans Thai,,/Expressive/Calm,90
 Noto Sans Thai,,/Expressive/Competent,80
-Noto Sans Thai,,/Expressive/Futuristic,10
+Noto Sans Thai,wght@100,/Expressive/Futuristic,0
+Noto Sans Thai,wght@400,/Expressive/Futuristic,10
+Noto Sans Thai,wght@900,/Expressive/Futuristic,0
 Noto Sans Thai,wght@600,/Expressive/Loud,45
 Noto Sans Thai,wght@900,/Expressive/Loud,80
 Noto Sans Thai,,/Expressive/Rugged,50
@@ -16044,7 +16248,9 @@ Noto Sans Vai,,/Sans/Humanist,100
 Noto Sans Vithkuqi,,/Expressive/Business,90
 Noto Sans Vithkuqi,,/Expressive/Calm,90
 Noto Sans Vithkuqi,,/Expressive/Competent,80
-Noto Sans Vithkuqi,,/Expressive/Futuristic,10
+Noto Sans Vithkuqi,wght@400,/Expressive/Futuristic,10
+Noto Sans Vithkuqi,wght@400,/Expressive/Futuristic,10
+Noto Sans Vithkuqi,wght@700,/Expressive/Futuristic,0
 Noto Sans Vithkuqi,,/Expressive/Loud,1
 Noto Sans Vithkuqi,,/Expressive/Rugged,50
 Noto Sans Vithkuqi,,/Expressive/Sincere,75
@@ -16109,7 +16315,9 @@ Noto Sans Zanabazar Square,,/Sans/Humanist,100
 Noto Sans,,/Expressive/Business,90
 Noto Sans,,/Expressive/Calm,90
 Noto Sans,,/Expressive/Competent,80
-Noto Sans,,/Expressive/Futuristic,10
+Noto Sans,wght@100,/Expressive/Futuristic,0
+Noto Sans,wght@400,/Expressive/Futuristic,10
+Noto Sans,wght@900,/Expressive/Futuristic,0
 Noto Sans,wght@600,/Expressive/Loud,45
 Noto Sans,wght@900,/Expressive/Loud,75
 Noto Sans,,/Expressive/Rugged,40
@@ -17007,7 +17215,9 @@ Orbit,,/Quality/Wordspace,100
 Orbit,,/Sans/Geometric,100
 Orbitron,,/Expressive/Awkward,20
 Orbitron,,/Expressive/Calm,5
-Orbitron,,/Expressive/Futuristic,88
+Orbitron,wght@400,/Expressive/Futuristic,88
+Orbitron,wght@400,/Expressive/Futuristic,88
+Orbitron,wght@900,/Expressive/Futuristic,0
 Orbitron,wght@600,/Expressive/Loud,52
 Orbitron,wght@900,/Expressive/Loud,80
 Orbitron,,/Expressive/Rugged,75
@@ -17141,7 +17351,9 @@ Overlock,,/Sans/Humanist,100
 Overlock,,/Theme/Brush,20
 Overpass Mono,,/Expressive/Business,20
 Overpass Mono,,/Expressive/Calm,50
-Overpass Mono,,/Expressive/Futuristic,10
+Overpass Mono,wght@300,/Expressive/Futuristic,0
+Overpass Mono,wght@400,/Expressive/Futuristic,10
+Overpass Mono,wght@700,/Expressive/Futuristic,0
 Overpass Mono,,/Expressive/Loud,1
 Overpass Mono,,/Expressive/Rugged,45
 Overpass Mono,,/Expressive/Stiff,20
@@ -17177,7 +17389,9 @@ Ovo,,/Quality/Spacing,70
 Ovo,,/Quality/Wordspace,90
 Ovo,,/Serif/Humanist Venetian,100
 Oxanium,,/Expressive/Awkward,5
-Oxanium,,/Expressive/Futuristic,70
+Oxanium,wght@200,/Expressive/Futuristic,0
+Oxanium,wght@400,/Expressive/Futuristic,70
+Oxanium,wght@800,/Expressive/Futuristic,0
 Oxanium,,/Expressive/Loud,1
 Oxanium,,/Expressive/Rugged,75
 Oxanium,,/Expressive/Stiff,67
@@ -17501,7 +17715,9 @@ Passions Conflict,,/Quality/Wordspace,50
 Passions Conflict,,/Script/Formal,100
 Pathway Extreme,,/Expressive/Business,40
 Pathway Extreme,,/Expressive/Calm,50
-Pathway Extreme,,/Expressive/Futuristic,10
+Pathway Extreme,wght@100,/Expressive/Futuristic,0
+Pathway Extreme,wght@400,/Expressive/Futuristic,10
+Pathway Extreme,wght@900,/Expressive/Futuristic,0
 Pathway Extreme,wght@600,/Expressive/Loud,40
 Pathway Extreme,wght@900,/Expressive/Loud,86
 Pathway Extreme,,/Expressive/Rugged,50
@@ -17776,7 +17992,9 @@ Pirata One,,/Quality/Spacing,70
 Pirata One,,/Quality/Wordspace,70
 Pirata One,,/Theme/Blackletter,100
 Pixelify Sans,,/Expressive/Awkward,60
-Pixelify Sans,,/Expressive/Futuristic,26
+Pixelify Sans,wght@400,/Expressive/Futuristic,26
+Pixelify Sans,wght@400,/Expressive/Futuristic,26
+Pixelify Sans,wght@700,/Expressive/Futuristic,0
 Pixelify Sans,,/Expressive/Innovative,15
 Pixelify Sans,,/Expressive/Rugged,55
 Pixelify Sans,,/Expressive/Stiff,50
@@ -20076,7 +20294,9 @@ Redacted,,/Quality/Wordspace,100
 Redacted,,/Special use/Redaction,100
 Reddit Mono,,/Expressive/Business,20
 Reddit Mono,,/Expressive/Calm,70
-Reddit Mono,,/Expressive/Futuristic,22
+Reddit Mono,wght@200,/Expressive/Futuristic,0
+Reddit Mono,wght@400,/Expressive/Futuristic,22
+Reddit Mono,wght@900,/Expressive/Futuristic,0
 Reddit Mono,wght@600,/Expressive/Loud,45
 Reddit Mono,wght@900,/Expressive/Loud,81
 Reddit Mono,,/Expressive/Rugged,50
@@ -20298,7 +20518,9 @@ Roboto Condensed,,/Expressive/Active,10
 Roboto Condensed,,/Expressive/Business,80
 Roboto Condensed,,/Expressive/Calm,80
 Roboto Condensed,,/Expressive/Competent,70
-Roboto Condensed,,/Expressive/Futuristic,10
+Roboto Condensed,wght@100,/Expressive/Futuristic,0
+Roboto Condensed,wght@400,/Expressive/Futuristic,10
+Roboto Condensed,wght@900,/Expressive/Futuristic,0
 Roboto Condensed,wght@600,/Expressive/Loud,55
 Roboto Condensed,wght@900,/Expressive/Loud,85
 Roboto Condensed,,/Expressive/Rugged,54
@@ -20890,7 +21112,9 @@ Ruda,,/Expressive/Active,10
 Ruda,,/Expressive/Business,46
 Ruda,,/Expressive/Calm,62
 Ruda,,/Expressive/Competent,52
-Ruda,,/Expressive/Futuristic,10
+Ruda,wght@400,/Expressive/Futuristic,10
+Ruda,wght@400,/Expressive/Futuristic,10
+Ruda,wght@900,/Expressive/Futuristic,0
 Ruda,wght@600,/Expressive/Loud,46
 Ruda,wght@900,/Expressive/Loud,80
 Ruda,,/Expressive/Rugged,50
@@ -21050,7 +21274,9 @@ STIX Two Text,,/Quality/Wordspace,80
 STIX Two Text,,/Serif/Transitional,100
 SUSE Mono,,/Expressive/Business,20
 SUSE Mono,,/Expressive/Calm,72
-SUSE Mono,,/Expressive/Futuristic,21
+SUSE Mono,wght@100,/Expressive/Futuristic,0
+SUSE Mono,wght@400,/Expressive/Futuristic,21
+SUSE Mono,wght@800,/Expressive/Futuristic,0
 SUSE Mono,,/Expressive/Loud,1
 SUSE Mono,,/Expressive/Rugged,55
 SUSE Mono,,/Expressive/Stiff,20
@@ -21066,7 +21292,9 @@ SUSE Mono,,/Sans/Superellipse,50
 SUSE,,/Expressive/Business,40
 SUSE,,/Expressive/Calm,75
 SUSE,,/Expressive/Competent,40
-SUSE,,/Expressive/Futuristic,10
+SUSE,wght@100,/Expressive/Futuristic,0
+SUSE,wght@400,/Expressive/Futuristic,10
+SUSE,wght@900,/Expressive/Futuristic,0
 SUSE,wght@600,/Expressive/Loud,35
 SUSE,wght@900,/Expressive/Loud,89
 SUSE,,/Expressive/Rugged,48
@@ -21161,24 +21389,13 @@ Saira Semi Condensed,,/Quality/Drawing,70
 Saira Semi Condensed,,/Quality/Spacing,70
 Saira Semi Condensed,,/Quality/Wordspace,80
 Saira Semi Condensed,,/Sans/Superellipse,80
-Saira Stencil One,,/Expressive/Awkward,12
-Saira Stencil One,,/Expressive/Futuristic,20
-Saira Stencil One,,/Expressive/Innovative,10
-Saira Stencil One,,/Expressive/Loud,34
-Saira Stencil One,,/Expressive/Rugged,90
-Saira Stencil One,,/Expressive/Stiff,66
-Saira Stencil One,,/Expressive/Vintage,60
-Saira Stencil One,,/Quality/Concept,70
-Saira Stencil One,,/Quality/Drawing,70
-Saira Stencil One,,/Quality/Spacing,70
-Saira Stencil One,,/Quality/Wordspace,80
-Saira Stencil One,,/Sans/Superellipse,80
-Saira Stencil One,,/Theme/Stencil,100
 Saira Stencil,wght@600,/Expressive/Loud,35
 Saira Stencil,wght@900,/Expressive/Loud,93
 Saira,,/Expressive/Business,70
 Saira,,/Expressive/Calm,74
-Saira,,/Expressive/Futuristic,60
+Saira,wght@100,/Expressive/Futuristic,0
+Saira,wght@400,/Expressive/Futuristic,60
+Saira,wght@900,/Expressive/Futuristic,0
 Saira,wght@600,/Expressive/Loud,35
 Saira,wght@900,/Expressive/Loud,93
 Saira,,/Expressive/Rugged,58
@@ -21463,7 +21680,9 @@ Schoolbell,,/Quality/Spacing,70
 Schoolbell,,/Quality/Wordspace,50
 Schoolbell,,/Script/Handwritten,100
 Science Gothic,,/Expressive/Calm,10
-Science Gothic,,/Expressive/Futuristic,90
+Science Gothic,wght@100,/Expressive/Futuristic,88
+Science Gothic,wght@400,/Expressive/Futuristic,90
+Science Gothic,wght@900,/Expressive/Futuristic,88
 Science Gothic,wght@600,/Expressive/Loud,46
 Science Gothic,wght@900,/Expressive/Loud,89
 Science Gothic,,/Expressive/Rugged,75
@@ -21914,7 +22133,9 @@ Sigmar,,/Theme/Woodtype,20
 Signika Negative,,/Expressive/Business,66
 Signika Negative,,/Expressive/Calm,69
 Signika Negative,,/Expressive/Competent,60
-Signika Negative,,/Expressive/Futuristic,5
+Signika Negative,wght@300,/Expressive/Futuristic,0
+Signika Negative,wght@400,/Expressive/Futuristic,5
+Signika Negative,wght@700,/Expressive/Futuristic,0
 Signika Negative,,/Expressive/Loud,3
 Signika Negative,,/Expressive/Rugged,50
 Signika Negative,,/Expressive/Sincere,30
@@ -21928,7 +22149,9 @@ Signika Negative,,/Sans/Humanist,100
 Signika,,/Expressive/Business,68
 Signika,,/Expressive/Calm,66
 Signika,,/Expressive/Competent,60
-Signika,,/Expressive/Futuristic,5
+Signika,wght@300,/Expressive/Futuristic,0
+Signika,wght@400,/Expressive/Futuristic,5
+Signika,wght@700,/Expressive/Futuristic,0
 Signika,,/Expressive/Loud,4
 Signika,,/Expressive/Rugged,55
 Signika,,/Expressive/Sincere,30
@@ -22161,7 +22384,9 @@ Smokum,,/Theme/Tuscan,80
 Smokum,,/Theme/Woodtype,60
 Smooch Sans,,/Expressive/Active,20
 Smooch Sans,,/Expressive/Calm,20
-Smooch Sans,,/Expressive/Futuristic,72
+Smooch Sans,wght@100,/Expressive/Futuristic,0
+Smooch Sans,wght@400,/Expressive/Futuristic,72
+Smooch Sans,wght@900,/Expressive/Futuristic,0
 Smooch Sans,wght@600,/Expressive/Loud,46
 Smooch Sans,wght@900,/Expressive/Loud,88
 Smooch Sans,,/Expressive/Rugged,54
@@ -22270,7 +22495,9 @@ Sofadi One,,/Theme/Blobby,20
 Sofia Sans Condensed,,/Expressive/Active,20
 Sofia Sans Condensed,,/Expressive/Business,50
 Sofia Sans Condensed,,/Expressive/Calm,76
-Sofia Sans Condensed,,/Expressive/Futuristic,10
+Sofia Sans Condensed,wght@1,/Expressive/Futuristic,0
+Sofia Sans Condensed,wght@400,/Expressive/Futuristic,10
+Sofia Sans Condensed,wght@1000,/Expressive/Futuristic,0
 Sofia Sans Condensed,wght@600,/Expressive/Loud,45
 Sofia Sans Condensed,wght@900,/Expressive/Loud,82
 Sofia Sans Condensed,,/Expressive/Rugged,50
@@ -22286,7 +22513,9 @@ Sofia Sans Condensed,,/Sans/Rounded,20
 Sofia Sans Extra Condensed,,/Expressive/Active,20
 Sofia Sans Extra Condensed,,/Expressive/Business,55
 Sofia Sans Extra Condensed,,/Expressive/Calm,15
-Sofia Sans Extra Condensed,,/Expressive/Futuristic,10
+Sofia Sans Extra Condensed,wght@1,/Expressive/Futuristic,0
+Sofia Sans Extra Condensed,wght@400,/Expressive/Futuristic,10
+Sofia Sans Extra Condensed,wght@1000,/Expressive/Futuristic,0
 Sofia Sans Extra Condensed,wght@600,/Expressive/Loud,30
 Sofia Sans Extra Condensed,wght@900,/Expressive/Loud,84
 Sofia Sans Extra Condensed,,/Expressive/Rugged,55
@@ -22302,7 +22531,9 @@ Sofia Sans Extra Condensed,,/Sans/Rounded,20
 Sofia Sans Semi Condensed,,/Expressive/Business,42
 Sofia Sans Semi Condensed,,/Expressive/Calm,74
 Sofia Sans Semi Condensed,,/Expressive/Competent,60
-Sofia Sans Semi Condensed,,/Expressive/Futuristic,55
+Sofia Sans Semi Condensed,wght@1,/Expressive/Futuristic,0
+Sofia Sans Semi Condensed,wght@400,/Expressive/Futuristic,55
+Sofia Sans Semi Condensed,wght@1000,/Expressive/Futuristic,0
 Sofia Sans Semi Condensed,wght@600,/Expressive/Loud,32
 Sofia Sans Semi Condensed,wght@900,/Expressive/Loud,82
 Sofia Sans Semi Condensed,,/Expressive/Rugged,50
@@ -22375,7 +22606,9 @@ Solway,,/Quality/Spacing,70
 Solway,,/Quality/Wordspace,80
 Solway,,/Slab/Humanist,100
 Sometype Mono,,/Expressive/Calm,69
-Sometype Mono,,/Expressive/Futuristic,20
+Sometype Mono,wght@400,/Expressive/Futuristic,20
+Sometype Mono,wght@400,/Expressive/Futuristic,20
+Sometype Mono,wght@700,/Expressive/Futuristic,0
 Sometype Mono,,/Expressive/Loud,1
 Sometype Mono,,/Expressive/Rugged,50
 Sometype Mono,,/Expressive/Sincere,50
@@ -22399,7 +22632,9 @@ Song Myung,,/Quality/Wordspace,90
 Song Myung,,/Seasonal/Lunar New Year,88
 Song Myung,,/Serif/Transitional,100
 Sono,,/Expressive/Calm,68
-Sono,,/Expressive/Futuristic,20
+Sono,wght@200,/Expressive/Futuristic,0
+Sono,wght@400,/Expressive/Futuristic,20
+Sono,wght@800,/Expressive/Futuristic,0
 Sono,,/Expressive/Loud,1
 Sono,,/Expressive/Rugged,45
 Sono,,/Expressive/Sincere,50
@@ -22465,7 +22700,9 @@ Sour Gummy,,/Sans/Rounded,100
 Sour Gummy,,/Theme/Blobby,100
 Source Code Pro,,/Expressive/Business,20
 Source Code Pro,,/Expressive/Calm,78
-Source Code Pro,,/Expressive/Futuristic,10
+Source Code Pro,wght@200,/Expressive/Futuristic,0
+Source Code Pro,wght@400,/Expressive/Futuristic,10
+Source Code Pro,wght@900,/Expressive/Futuristic,0
 Source Code Pro,wght@600,/Expressive/Loud,45
 Source Code Pro,wght@900,/Expressive/Loud,81
 Source Code Pro,,/Expressive/Rugged,50
@@ -22675,7 +22912,9 @@ Splash,,/Seasonal/Holi,94
 Splash,,/Theme/Distressed,50
 Spline Sans Mono,,/Expressive/Business,50
 Spline Sans Mono,,/Expressive/Calm,77
-Spline Sans Mono,,/Expressive/Futuristic,28
+Spline Sans Mono,wght@300,/Expressive/Futuristic,0
+Spline Sans Mono,wght@400,/Expressive/Futuristic,28
+Spline Sans Mono,wght@700,/Expressive/Futuristic,0
 Spline Sans Mono,,/Expressive/Loud,1
 Spline Sans Mono,,/Expressive/Rugged,60
 Spline Sans Mono,,/Expressive/Sincere,40
@@ -23168,7 +23407,9 @@ Syne,,/Quality/Wordspace,80
 Syne,,/Sans/Neo Grotesque,100
 TASA Explorer,,/Expressive/Business,75
 TASA Explorer,,/Expressive/Calm,92
-TASA Explorer,,/Expressive/Futuristic,10
+TASA Explorer,wght@400,/Expressive/Futuristic,10
+TASA Explorer,wght@400,/Expressive/Futuristic,10
+TASA Explorer,wght@800,/Expressive/Futuristic,0
 TASA Explorer,,/Expressive/Loud,1
 TASA Explorer,,/Expressive/Rugged,50
 TASA Explorer,,/Expressive/Sincere,50
@@ -23182,7 +23423,9 @@ TASA Explorer,,/Sans/Humanist,80
 TASA Explorer,,/Sans/Neo Grotesque,20
 TASA Orbiter,,/Expressive/Business,75
 TASA Orbiter,,/Expressive/Calm,88
-TASA Orbiter,,/Expressive/Futuristic,10
+TASA Orbiter,wght@400,/Expressive/Futuristic,10
+TASA Orbiter,wght@400,/Expressive/Futuristic,10
+TASA Orbiter,wght@800,/Expressive/Futuristic,0
 TASA Orbiter,,/Expressive/Loud,1
 TASA Orbiter,,/Expressive/Rugged,50
 TASA Orbiter,,/Expressive/Sincere,50
@@ -23316,7 +23559,9 @@ Teachers,,/Quality/Drawing,65
 Teachers,,/Quality/Spacing,70
 Teachers,,/Quality/Wordspace,60
 Teachers,,/Sans/Geometric,100
-Teko,,/Expressive/Futuristic,73
+Teko,wght@300,/Expressive/Futuristic,0
+Teko,wght@400,/Expressive/Futuristic,73
+Teko,wght@700,/Expressive/Futuristic,0
 Teko,,/Expressive/Loud,4
 Teko,,/Expressive/Rugged,70
 Teko,,/Expressive/Sincere,20
@@ -23329,7 +23574,9 @@ Teko,,/Quality/Wordspace,100
 Teko,,/Sans/Geometric,10
 Teko,,/Sans/Superellipse,40
 Tektur,,/Expressive/Awkward,30
-Tektur,,/Expressive/Futuristic,88
+Tektur,wght@400,/Expressive/Futuristic,88
+Tektur,wght@400,/Expressive/Futuristic,88
+Tektur,wght@900,/Expressive/Futuristic,0
 Tektur,wght@600,/Expressive/Loud,43
 Tektur,wght@900,/Expressive/Loud,92
 Tektur,,/Expressive/Rugged,68
@@ -23711,7 +23958,9 @@ Tomorrow,,/Sans/Geometric,80
 Tomorrow,,/Theme/Techno,50
 Tourney,,/Expressive/Active,73
 Tourney,,/Expressive/Awkward,20
-Tourney,,/Expressive/Futuristic,70
+Tourney,wght@100,/Expressive/Futuristic,0
+Tourney,wght@400,/Expressive/Futuristic,70
+Tourney,wght@900,/Expressive/Futuristic,0
 Tourney,wght@600,/Expressive/Loud,88
 Tourney,wght@900,/Expressive/Loud,89
 Tourney,,/Expressive/Rugged,60
@@ -23773,7 +24022,9 @@ Trirong,,/Quality/Wordspace,100
 Trirong,,/Serif/Modern,30
 Trispace,,/Expressive/Business,20
 Trispace,,/Expressive/Calm,74
-Trispace,,/Expressive/Futuristic,22
+Trispace,wght@100,/Expressive/Futuristic,0
+Trispace,wght@400,/Expressive/Futuristic,22
+Trispace,wght@800,/Expressive/Futuristic,0
 Trispace,,/Expressive/Loud,1
 Trispace,,/Expressive/Rugged,50
 Trispace,,/Expressive/Sincere,30
@@ -23939,7 +24190,9 @@ Ubuntu Mono,,/Quality/Wordspace,100
 Ubuntu Mono,,/Sans/Neo Grotesque,100
 Ubuntu Sans Mono,,/Expressive/Business,20
 Ubuntu Sans Mono,,/Expressive/Calm,73
-Ubuntu Sans Mono,,/Expressive/Futuristic,77
+Ubuntu Sans Mono,wght@400,/Expressive/Futuristic,77
+Ubuntu Sans Mono,wght@400,/Expressive/Futuristic,77
+Ubuntu Sans Mono,wght@700,/Expressive/Futuristic,0
 Ubuntu Sans Mono,,/Expressive/Loud,1
 Ubuntu Sans Mono,,/Expressive/Rugged,40
 Ubuntu Sans Mono,,/Expressive/Stiff,36
@@ -23953,7 +24206,9 @@ Ubuntu Sans Mono,,/Sans/Neo Grotesque,100
 Ubuntu Sans,,/Expressive/Business,70
 Ubuntu Sans,,/Expressive/Calm,73
 Ubuntu Sans,,/Expressive/Competent,65
-Ubuntu Sans,,/Expressive/Futuristic,48
+Ubuntu Sans,wght@100,/Expressive/Futuristic,0
+Ubuntu Sans,wght@400,/Expressive/Futuristic,48
+Ubuntu Sans,wght@800,/Expressive/Futuristic,0
 Ubuntu Sans,,/Expressive/Loud,1
 Ubuntu Sans,,/Expressive/Rugged,30
 Ubuntu Sans,,/Expressive/Sincere,20
@@ -24339,7 +24594,9 @@ Vibur,,/Quality/Wordspace,50
 Vibur,,/Script/Handwritten,100
 Victor Mono,,/Expressive/Business,40
 Victor Mono,,/Expressive/Calm,68
-Victor Mono,,/Expressive/Futuristic,32
+Victor Mono,wght@100,/Expressive/Futuristic,0
+Victor Mono,wght@400,/Expressive/Futuristic,32
+Victor Mono,wght@700,/Expressive/Futuristic,0
 Victor Mono,,/Expressive/Rugged,45
 Victor Mono,,/Expressive/Stiff,55
 Victor Mono,,/Expressive/Vintage,5
@@ -24817,7 +25074,9 @@ Yaldevi,,/Sans/Neo Grotesque,80
 Yanone Kaffeesatz,,/Expressive/Active,20
 Yanone Kaffeesatz,,/Expressive/Business,70
 Yanone Kaffeesatz,,/Expressive/Calm,20
-Yanone Kaffeesatz,,/Expressive/Futuristic,30
+Yanone Kaffeesatz,wght@200,/Expressive/Futuristic,0
+Yanone Kaffeesatz,wght@400,/Expressive/Futuristic,30
+Yanone Kaffeesatz,wght@700,/Expressive/Futuristic,0
 Yanone Kaffeesatz,,/Expressive/Happy,30
 Yanone Kaffeesatz,,/Expressive/Loud,4
 Yanone Kaffeesatz,,/Expressive/Rugged,60
