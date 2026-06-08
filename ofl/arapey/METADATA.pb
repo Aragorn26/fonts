@@ -28,3 +28,4 @@ source {
   repository_url: "https://github.com/etunni/arapey"
   commit: "9c06862616bd689aec606d630cf5ad11ec5ea6f2"
 }
+minisite_url: "https://etunni.github.io/Arapey-Minisite"

@@ -36,7 +36,20 @@ axes {
 }
 source {
   repository_url: "https://github.com/octaviopardo/EBGaramond12"
-  commit: "e608414f52e532b68e2182f96b4ce9db35335593"
+  commit: "106a4a6d377987459ae5e68673a4570f13b957fb"
+  files {
+    source_file: "fonts/variable/EBGaramond[wght].ttf"
+    dest_file: "EBGaramond[wght].ttf"
+  }
+  files {
+    source_file: "fonts/variable/EBGaramond-Italic[wght].ttf"
+    dest_file: "EBGaramond-Italic[wght].ttf"
+  }
+  files {
+    source_file: "OFL.txt"
+    dest_file: "OFL.txt"
+  }
+  branch: "master"
   config_yaml: "sources/config.yaml"
 }
 minisite_url: "https://googlefonts.github.io/ebgaramond-specimen/"

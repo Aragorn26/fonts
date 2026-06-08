@@ -31,7 +31,7 @@ source {
     source_file: "DESCRIPTION.en_us.html"
     dest_file: "DESCRIPTION.en_us.html"
   }
-  branch: "master"
+  branch: "main"
   config_yaml: "sources/config.yaml"
 }
 primary_script: "Knda"

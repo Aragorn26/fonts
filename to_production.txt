@@ -1,7 +1,20 @@
+# New
+ofl/alienblock # https://github.com/google/fonts/pull/10491
+ofl/pliant # https://github.com/google/fonts/pull/10546
+
+# Upgrade
+ofl/geistmono # https://github.com/google/fonts/pull/10540
+
 # Designer profile
-catalog/designers/butko # https://github.com/google/fonts/pull/10314
-catalog/designers/ishtarvanlooy # https://github.com/google/fonts/pull/10071
-catalog/designers/maxthunberg # https://github.com/google/fonts/pull/10117
+catalog/designers/jonasaucedo # https://github.com/google/fonts/pull/10539
+catalog/designers/kensukeuchida # https://github.com/google/fonts/pull/10525
+catalog/designers/nonfoundry # https://github.com/google/fonts/pull/10538
+
+# Knowledge
+cc-by-sa/knowledge/glossary/terms/arrr_axis/content.md # https://github.com/google/fonts/pull/10511
+cc-by-sa/knowledge/glossary/terms/contrast_axis/content.md # https://github.com/google/fonts/pull/10505
+cc-by-sa/knowledge/glossary/terms/contrast_axis/images/thumbnail.svg # https://github.com/google/fonts/pull/10505
+cc-by-sa/knowledge/glossary/terms/contrast_axis/term.textproto # https://github.com/google/fonts/pull/10505
 
 # Metadata / Description / License
-ofl/allkin # https://github.com/google/fonts/pull/10252
+ofl/mplusrounded1c # https://github.com/google/fonts/pull/10492

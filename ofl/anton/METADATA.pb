@@ -31,7 +31,7 @@ source {
     source_file: "fonts/Anton-Regular.ttf"
     dest_file: "Anton-Regular.ttf"
   }
-  branch: "master"
+  branch: "main"
   config_yaml: "sources/config.yaml"
 }
 stroke: "SANS_SERIF"

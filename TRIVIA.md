@@ -114,6 +114,8 @@ Here is a list of 3rd party directories:
 * <https://paulzi.github.io/google-fonts-loader>
 * <https://winniethemu.github.io/tiff>
 * <https://www.fontcomparer.com>
+* <https://fontbog.com>
+* <https://arcoty.pe>
 
 There are also handcrafted directories with rich samples:
 
@@ -129,6 +131,7 @@ There are also handcrafted directories with rich samples:
 * <https://digitalsynopsis.com/design/best-google-font-combinations-typeface-pairings/>
 * <https://www.fontsinthewild.com/google>
 * <https://stabla.github.io/good-google-fonts>
+* <https://typiq-font.vercel.app/>
 
 ## Rightsholder contacts
 

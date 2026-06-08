@@ -37,3 +37,13 @@ The last upstream commit is `1f1d677` ("Compile 2.000"), dated November 21, 2014
 ## Conclusion
 
 The source block needs a `commit` field. The commit to use is likely `1f1d677` ("Compile 2.000" from Nov 2014) or an earlier version corresponding to the initial onboarding. No `config.yaml` is possible as the repository uses ITF's custom build system (Python scripts with FontLab/UFO sources).
+
+## Commit Added (HIGH confidence)
+
+Commit `1f1d6778d3a940999b543313b2371fa76b16a978` was determined by **tag_match**. Matched a version tag in the upstream repo whose date is on or before the binary modification date in google/fonts (2022-11-09). This is the most reliable method.
+
+## Update (2026-04-24) — Override config.yaml
+
+**Model**: Claude Opus 4.7 (1M context)
+
+Upstream has both compatible sources (.ufo) and legacy `.sfd`/`.vfb` archives at the pinned commit `1f1d677` (upstream legacy: .vfb masters in masters/; upstream also has ExtraLight/ExtraBold/Black/SemiLight UFOs not shipped). Added an override `config.yaml` in `ofl/khand/` that references the compatible sources only (`styles/Light/font.ufo`, `styles/Regular/font.ufo`, `styles/SemiBold/font.ufo`, `styles/Bold/font.ufo`). The legacy archives are retained upstream for historical reference but are not consumed by gftools-builder. `google-fonts-sources` auto-detects the override on the next regeneration of crater's `targets.json`.

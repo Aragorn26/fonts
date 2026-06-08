@@ -64,7 +64,7 @@ source {
     source_file: "balsamiqsans-fonts/fonts/ttf/BalsamiqSans-Regular.ttf"
     dest_file: "BalsamiqSans-Regular.ttf"
   }
-  branch: "main"
+  branch: "master"
   config_yaml: "sources/config.yaml"
 }
 stroke: "SANS_SERIF"

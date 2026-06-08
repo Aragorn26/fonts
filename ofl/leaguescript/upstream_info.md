@@ -42,3 +42,13 @@ Since the repo has only one commit, that commit is the most likely candidate for
 ## Conclusion
 
 The repository URL is present but the commit hash is missing. The upstream repo has only one commit (`225add0`), which is likely the reference commit. The sources include UFO format which could support an override `config.yaml`, but the VFB file is the primary design source (FontLab format).
+
+## Commit Added (MEDIUM confidence)
+
+Commit `225add0b37cf8268759ba4572e02630d9fb54ecf` was determined by **date_correlation**. Found the latest upstream commit before the binary modification date in google/fonts (2019-07-09). This assumes the upstream HEAD at onboarding time was the commit used.
+
+## Update (2026-04-24) — Override config.yaml
+
+**Model**: Claude Opus 4.7 (1M context)
+
+Upstream has both compatible sources (.ufo) and legacy `.sfd`/`.vfb` archives at the pinned commit `225add0` (upstream legacy: .vfb in source/). Added an override `config.yaml` in `ofl/leaguescript/` that references the compatible sources only (`source/LeagueScriptNumberOne.ufo`). The legacy archives are retained upstream for historical reference but are not consumed by gftools-builder. `google-fonts-sources` auto-detects the override on the next regeneration of crater's `targets.json`.
